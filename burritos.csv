@@ -1,0 +1,422 @@
+,Location,Burrito,Date,Neighborhood,Address,URL,Yelp,Google,Chips,Cost,Hunger,Mass (g),Density (g/mL),Length,Circum,Volume,Tortilla,Temp,Meat,Fillings,Meat:filling,Uniformity,Salsa,Synergy,Wrap,Reviewer,Notes,Unreliable,NonSD,Beef,Pico,Guac,Cheese,Fries,Sour cream,Pork,Chicken,Shrimp,Fish,Rice,Beans,Lettuce,Tomato,Bell peper,Carrots,Cabbage,Sauce,Salsa.1,Cilantro,Onion,Taquito,Pineapple,Ham,Chile relleno,Nopales,Lobster,Queso,Egg,Mushroom,Bacon,Sushi,Avocado,Corn,Zucchini,Great
+0,Donato's taco shop,California ,1/18/2016,Miramar,6780 Miramar Rd,http://donatostacoshop.net/,3.5,4.2,,6.49,3.0,,,,,,3.0,5.0,3.0,3.5,4.0,4.0,4.0,4.0,4.0,Scott,good fries: 4/5,,,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+1,Oscar's Mexican food,California ,1/24/2016,San Marcos,225 S Rancho Santa Fe Rd,http://www.yelp.com/biz/oscars-mexican-food-san-marcos,3.5,3.3,,5.45,3.5,,,,,,2.0,3.5,2.5,2.5,2.0,4.0,3.5,2.5,5.0,Scott,Fries: 3/5; too little meat,,,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+2,Oscar's Mexican food,Carnitas,1/24/2016,,,,,,,4.85,1.5,,,,,,3.0,2.0,2.5,3.0,4.5,4.0,3.0,3.0,5.0,Emily,,,,,x,x,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+3,Oscar's Mexican food,Carne asada,1/24/2016,,,,,,,5.25,2.0,,,,,,3.0,2.0,3.5,3.0,4.0,5.0,4.0,4.0,5.0,Ricardo,Go to average burrito place like Rigoberto's in la jolla; Terrible tamales,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+4,Pollos Maria,California,1/27/2016,Carlsbad,3055 Harding St,http://pollosmaria.com/,4.0,3.8,x,6.59,4.0,,,,,,4.0,5.0,4.0,3.5,4.5,5.0,2.5,4.5,4.0,Scott,,,,x,x,,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+5,Pollos Maria,combo chicken,1/28/2016,,,,,,,6.99,4.0,,,,,,3.0,4.0,5.0,3.5,2.5,2.5,2.5,4.0,1.0,Emily,,,,,,x,x,,x,,x,,,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,False
+6,Nico's Taco Shop,California,1/30/2016,Carmel Valley,3860 Valley Centre Dr #404,http://www.yelp.com/biz/nicos-taco-shop-san-diego,3.0,2.9,,7.19,1.5,,,,,,2.0,3.0,3.0,2.0,2.5,2.5,,2.0,3.0,Scott,not fries. big potatoes,,,x,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+7,Nico's Taco Shop,Carnitas,1/30/2016,,,,,,,6.99,4.0,,,,,,2.5,3.0,3.0,2.5,3.0,3.5,,2.5,3.0,Emily,,,,,x,x,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+8,Los Primos Mexican Food,Monster California,2/1/2016,UTC,7770 Regents Rd,http://www.primosmex.com/,3.0,3.7,x,9.25,3.5,,,,,,2.0,4.5,4.5,3.5,1.5,3.0,3.5,4.0,2.0,Scott,this tasted really bad leftover. not included in rating,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+9,JV's Mexican Food,Carne Asada,2/6/2016,Morena,1112 Morena Blvd,http://jvsmexfood.com/,4.0,4.1,,6.25,3.5,,,,,,2.5,1.5,1.5,3.0,4.5,3.0,1.5,2.0,4.5,Scott,,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+10,JV's Mexican Food,Surf & Turf,2/6/2016,,,,,,,9.5,2.0,,,,,,2.5,2.5,2.75,2.5,2.5,2.0,0.5,3.0,3.5,Emily,Huge. Shrimp is good. Meat is normal,,,x,,x,,,,,,x,,x,,,,x,,,,,,,,,,,,,,,,,,,,,False
+11,Tony's Fresh Mexican Food,Chile verde pork,2/11/2016,Miramar,7122 Miramar Rd,https://www.yelp.com/biz/tonys-fresh-mexican-food-san-diego,3.0,4.1,x,6.95,2.0,,,,,,3.0,4.0,4.0,3.0,4.0,4.0,1.0,2.0,1.0,Marc,,,,,x,,,x,,x,,,,x,x,,,,x,,,,,,,,,,,,,,,,,,,,False
+12,Tony's Fresh Mexican Food,California,2/11/2016,,,,,,,6.25,3.5,,,,,,3.0,3.5,3.5,4.0,2.0,3.5,1.0,4.0,4.0,Scott,,,,x,x,,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+13,Tony's Fresh Mexican Food,battered fish ,2/11/2016,,,,,,,6.99,3.0,,,,,,3.0,1.0,1.5,2.5,4.0,4.0,3.0,4.5,5.0,Nicole,,,,,,,,,,,,,x,,,,,,,x,x,,,,,,,,,,,,,,,,,,False
+14,Tony's Fresh Mexican Food,California,2/11/2016,,,,,,,6.25,3.0,,,,,,4.0,,2.0,2.0,4.0,4.0,,3.0,4.0,Cris,"to-go, no guac or sour cream, fries are a small and underdone",,,x,x,,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+15,Taco Stand,California,2/12/2016,La Jolla,621 Pearl St,http://letstaco.com/,4.5,4.4,,7.49,4.0,,,,,,3.0,2.5,4.0,4.0,3.5,2.5,3.5,5.0,4.5,Emily,Horchata is very sweet,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+16,Taco Stand,Surf and turf ,2/12/2016,,,,,,,8.49,2.5,,,,,,4.0,4.0,4.5,4.0,5.0,4.5,3.5,4.0,2.0,Scott,,,,x,x,x,,,,,,x,,,,,,,,x,,,,,,,,,,,,,,,,,,,True
+17,Graciela's Taco Shop,Adobada ,2/14/2016,Bonita,5047 Central Ave,https://www.yelp.com/biz/gracielas-taco-shop-bonita-2,4.0,4.5,,5.99,3.0,,,,,,4.0,4.0,3.0,3.5,4.0,4.5,4.0,4.0,4.5,Scott,Salsa verde spicy,,,,,,,,,x,,,,,x,,,,,,,x,x,x,,,,,,,,,,,,,,,True
+18,Graciela's Taco Shop,Barbacoa,2/14/2016,,,,,,,5.99,2.0,,,,,,3.5,4.0,3.5,,4.0,,4.0,4.0,1.5,Emily,,,,x,,,,,,,,,,,,,,,,,,,x,x,,,,,,,,,,,,,,,True
+19,Rigoberto's Taco Shop La Jolla,California,2/17/2016,La Jolla,7345 La Jolla Blvd,https://www.yelp.com/biz/rigobertos-la-jolla-2,2.5,4.0,,6.4,4.0,,,,,,3.0,4.0,2.75,3.0,4.0,2.0,2.0,,5.0,Leo,,,,x,x,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+20,Rigoberto's Taco Shop La Jolla,California,2/17/2016,,,,,,,6.4,2.5,,,,,,3.5,3.0,3.0,3.0,4.0,4.0,1.5,,4.5,Scott,,,,x,x,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+21,Lolita's taco shop,2 in 1,2/24/2016,Kearny Mesa,7305 Clairemont Mesa Blvd,http://lolitasmexicanfood.com/,4.0,4.4,,8.75,3.5,,,,,,1.5,2.0,3.0,3.5,4.0,1.0,3.5,4.5,4.0,Scott,Rolled tacos need more meat,,,x,,x,x,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,True
+22,Lolita's taco shop,Adobado,2/24/2016,,,,,,,5.5,2.5,,,,,,1.5,2.5,3.5,3.0,4.0,1.5,2.5,3.5,4.5,Emily,Adobado reminds me of Indian food because of some mystery spice,,,,x,x,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+23,Taco Stand,California,2/28/2016,,,,,,,7.49,2.5,,,,,,4.0,3.0,4.0,4.0,4.0,4.0,4.0,4.0,3.0,Scott,,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+24,Taco Stand,California,2/28/2016,,,,,,,7.49,2.5,,,,,,3.0,2.0,4.5,4.0,4.0,3.5,3.0,4.5,4.5,Emily,,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+25,Lola's 7 Up Market & Deli,Shredded beef,2/29/2016,Carlsbad,3292 Roosevelt St,https://www.yelp.com/biz/lolas-7-up-market-and-deli-carlsbad,4.5,4.9,,6.0,3.5,,,,,,2.5,2.5,3.0,4.0,4.0,4.0,3.0,3.5,1.5,Emily,Food cooks fast but checking out is painfully slow,,,x,x,,x,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,False
+26,Lola's 7 Up Market & Deli,Carne asada,2/29/2016,,,,,,,7.0,3.5,,,,,,2.5,3.0,3.0,4.0,2.0,2.0,3.0,3.5,3.5,Scott,Beans are surprisingly good,,,x,x,x,x,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,False
+27,Colima's Mexican Food,Hawaiian,3/3/2016,North park,2302 University Ave,https://www.yelp.com/biz/colimas-mexican-food-san-diego,4.0,4.2,,6.29,3.5,,,,,,3.5,5.0,4.0,4.0,3.5,4.5,3.5,3.5,4.0,Scott,,,,,,,x,,,x,,,,,,,,,,,,,,,,x,x,,,,,,,,,,,,True
+28,Colima's Mexican Food,Bandido,3/3/2016,,,,,,,6.49,4.5,,,,,,3.0,5.0,4.0,4.0,5.0,4.0,2.5,4.5,4.0,Sage,,,,x,,,,,,,,,,x,x,,,,,,x,,,,,,,x,,,,,,,,,,,True
+29,Colima's Mexican Food,Bandido,3/3/2016,,,,,,,6.49,4.5,,,,,,3.0,4.5,3.5,3.5,3.5,3.0,3.0,3.0,4.0,Eli,Promising start but finished poorly,,,x,,,,,,,,,,x,x,,,,,,x,,,,,,,x,,,,,,,,,,,False
+30,Rigoberto's Taco Shop,Carne asada,3/8/2016,Miramar,7094 Miramar Rd,https://www.yelp.com/biz/rigobertos-taco-shop-san-diego-2,4.0,4.4,,6.6,3.5,,,,,,4.0,2.0,4.0,3.5,4.5,4.0,3.5,4.0,1.0,Ricardo,,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+31,Rigoberto's Taco Shop,Campeon,3/8/2016,,,,,,,7.65,3.5,,,,,,3.0,1.5,3.0,3.0,2.5,3.0,3.5,2.5,4.0,Scott,,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+32,Raul's Mexican food,Chile verde pork,3/11/2016,Encinitas,490 S Coast Hwy 101,https://www.yelp.com/biz/rauls-shack-encinitas,4.0,4.2,,5.0,3.5,,,,,,2.0,,2.5,2.0,2.0,2.0,2.0,2.5,,Emily,,,,,,,,,,x,,,,,x,,,,,,,x,,,,,,,,,,,,,,,,,False
+33,Raul's Mexican food,carne asada,3/11/2016,,,,,,,5.0,1.0,,,,,,2.0,,1.0,1.0,0.5,1.0,1.5,1.0,4.0,Scott,burrito was mostly tortilla,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+34,El Zarape,California,3/14/2016,University Heights,4642 Park Blvd,https://www.yelp.com/biz/el-zarape-san-diego,4.0,4.4,x,6.25,0.5,,,,,,3.0,5.0,4.0,2.75,4.0,1.6,3.5,3.4,5.0,Kelsey,,,,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+35,El Zarape,California chicken,3/14/2016,,,,,,,6.25,3.0,,,,,,3.5,5.0,2.5,2.5,4.0,2.7,3.5,3.0,5.0,Sage,,,,,x,x,x,x,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+36,El Zarape,Azteca,3/14/2016,,,,,,,6.25,3.75,,,,,,3.0,5.0,5.0,4.5,4.0,4.0,1.5,3.0,5.0,Jake,,,,x,x,,x,,,,,,,,x,,,,,,,,,,,,,,x,,,,,,,,,,False
+37,El Zarape,Lobster,3/14/2016,,,,,,,9.5,3.0,,,,,,3.0,3.0,4.0,3.0,3.5,4.5,3.5,3.0,3.5,Scott,quite small,,,,,,,,,,,,,,,,x,,,x,x,,,,,,,,,x,,,,,,,,,False
+38,El Indio,California,3/17/2016,San Diego,3695 India St,http://elindiosandiego.com/,3.5,3.9,,7.84,4.0,,,,,,4.0,4.0,3.5,4.0,4.5,4.0,3.5,3.5,4.5,Scott,,,,x,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+39,Taco stand,Carne asada,3/18/2016,,,,,,,7.89,1.0,,,,,,3.0,3.5,4.5,4.0,5.0,5.0,4.5,3.5,5.0,Scott,,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+40,Taco stand,Al pastor,3/18/2016,,,,,,,6.99,4.0,,,,,,4.0,3.0,3.5,3.0,4.0,5.0,3.0,3.5,5.0,Emily,Kind of dry ,,,,,,,,,x,,,,,,,,,,,,,x,x,,x,,,,,,,,,,,,,False
+41,"Qdoba Mexican Grill, Seatac Airport",Custom,3/19/2016,Seattle,Airport,,,,,9.5,5.0,,,,,,3.0,3.0,3.5,3.0,4.0,1.0,3.0,2.5,5.0,Sage,,x,,,x,x,x,,,x,,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,False
+42,Cancun Mexican & Seafood,California,3/20/2016,Encinitas,1766 N Coast Hwy,http://cancunmexicanandseafood.com/,4.5,4.1,x,6.99,4.0,,,,,,4.0,4.5,4.0,3.5,4.0,2.5,2.0,4.0,4.0,Scott,A bit small,,,x,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+43,Cancun Mexican & Seafood,Machaca,3/20/2016,,,,,,,5.99,3.0,,,,,,4.0,3.5,3.5,4.0,3.5,3.5,2.0,3.5,0.5,Emily,So hot! Egg is surprisingly good,,,x,,,,,,,,,,,,,,x,,,,,,x,,,,,,,,x,,,,,,,False
+44,Vallarta express,Quesaburro,3/21/2016,Clairemont,4277 Genesee Ave,http://www.vallartaexpress.com/menu/,3.5,4.0,,6.95,3.5,,,,,,3.0,4.0,3.5,4.0,4.0,4.0,3.5,4.5,4.5,Scott,,,,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+45,Vallarta express,Philly ,3/21/2016,,,,,,,6.95,4.0,,,,,,3.0,4.5,4.0,3.0,3.0,2.0,4.0,2.0,4.5,Torben,Guac chips have lots of cheese,,,x,,,x,,,,,,,,,,,x,,,,x,,,,,,,,,,,x,x,,,,,False
+46,Vallarta express,Carne asada,3/21/2016,,,,,,,6.5,3.5,,,,,,3.75,5.0,3.0,3.0,4.5,4.5,3.5,3.0,4.5,Ricardo,,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+47,Vallarta express,Quesa,3/21/2016,,,,,,,6.95,4.5,,,,,,2.0,5.0,3.5,4.0,2.5,5.0,3.5,2.5,4.0,Alex,Heart-stopping amount of cheese. Second tortilla of cheese,,,x,x,x,x,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+48,Vallarta express,Surf and turf,3/21/2016,,,,,,,7.65,3.0,,,,,,2.0,4.0,3.0,3.0,4.0,2.0,4.0,2.0,3.0,Richard,Hot carrots,,,x,,x,,,x,,,x,,x,x,,,,,,,,,,,,,,,,,,,,,,,,False
+49,Vallarta express,Mahi,3/21/2016,,,,,,,7.3,3.0,,,,,,3.0,4.5,3.5,3.0,3.0,2.0,3.5,2.5,4.5,Tom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+50,Mikes Taco Club,California,3/23/2016,Ocean Beach,5060 Newport Ave,http://www.mikestacoclub.com/menu/,4.5,4.9,,8.59,2.5,,,,,,4.0,4.5,3.5,5.0,2.5,2.0,4.0,4.5,4.0,Scott,,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+51,Mikes Taco Club,California,3/23/2016,,,,,,,8.59,3.5,,,,,,4.5,4.5,4.0,4.5,4.0,4.0,4.0,4.5,5.0,Brad,,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+52,La Perla Cocina,Addiction,3/30/2016,Pacific Beach,745 Emerald St,https://www.yelp.com/biz/la-perla-cocina-mexicana-san-diego,4.5,4.7,,7.99,3.5,,,,,,4.0,4.0,2.0,3.0,1.5,3.0,2.5,1.0,3.0,Scott,Bland,,,x,x,x,,,,,,,,,x,,,,,,,,,,,,,,,,,,x,,,,,,False
+53,La Perla Cocina,Oaxacalifornia,3/30/2016,,,,,,,9.99,3.0,,,,,,4.0,4.5,3.5,4.0,3.0,2.0,2.5,3.5,4.0,Emily,Fries are good,,,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+54,Porkyland ,Deborah's special,4/2/2016,Carmel Valley,4645 Carmel Mountain Rd,http://goporkyland.com/,4.0,4.4,x,8.25,3.5,,,,,,4.0,4.5,3.5,2.5,4.5,4.5,4.0,3.5,5.0,Scott,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,True
+55,Porkyland ,Chicken nopalito,4/2/2016,,,,,,,7.95,2.5,,,,,,2.5,2.5,4.0,3.5,3.0,2.5,3.0,3.0,5.0,Emily,,,,,,x,,,,,x,,,,,,,,,,x,,,,,,,,x,,,,,,,,,,False
+56,Porkyland ,Chicken nopalito,4/2/2016,,,,,,,7.95,2.0,,,,,,4.0,5.0,4.0,4.0,3.0,5.0,3.0,3.0,5.0,Tara,,,,,,x,,,,,x,,,,,,,,,,x,,,,,,,,x,,,,,,,,,,True
+57,Porkyland ,California,4/2/2016,,,,,,,8.75,3.0,,,,,,4.0,5.0,3.0,5.0,3.0,2.0,4.0,3.0,5.0,Andy,,,,x,,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+58,Rigoberto's Taco Shop,California ,4/3/2016,,,,,,,6.6,3.0,,,,,,3.0,4.5,4.0,4.5,4.0,4.5,4.5,5.0,4.5,Scott,,,,x,,,x,x,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,True
+59,Rigoberto's Taco Shop,Adobada,4/3/2016,,,,,,,6.6,3.0,,,,,,4.0,5.0,5.0,5.0,5.0,4.0,,4.5,5.0,Tara,,,,,,x,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+60,Rigoberto's Taco Shop,California,4/7/2016,,,,,,,6.6,3.0,,,,,,3.0,5.0,3.5,3.0,4.5,2.5,3.0,4.0,4.0,Scott,Too much enchilada sauce this time,,,x,,,x,x,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,False
+61,Rigoberto's Taco Shop,Surf & Turf,4/7/2016,,,,,,,7.45,3.5,,,,,,3.0,5.0,3.5,2.5,3.0,2.5,3.75,3.0,4.0,Bankole,Would have enjoyed it more if wasn't rating; shrimp better than meat. Quality of the shrimp really improves the burrito. Well cooked and fresh. Shrimp could have had more flavor,,,x,,,x,,,,,x,,x,,,,,,,,,,,,,,,,,,,,,,,,,False
+62,Rudy's Taco Shop,Chicken,4/9/2016,Solana Beach,524 Stevens Ave,http://www.rudystacoshop.com/,4.0,4.3,,6.6,3.5,,,,,,3.5,3.0,4.0,4.5,3.0,1.0,3.0,4.0,0.5,Scott,"Salsa Fresca is good, way too small",,,,X,X,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+63,Rudy's Taco Shop,Carnitas,4/9/2016,,,,,,,6.6,3.0,,,,,,3.0,2.5,3.0,4.0,2.0,1.0,3.0,3.0,5.0,Emily,,,,,X,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+64,Taco stand,Carne asada,4/14/2016,,,,,,,7.89,3.5,,,,,,3.0,2.0,4.5,4.0,4.0,1.5,4.5,4.5,4.5,Scott,Too small ,,,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+65,Taco stand,Carne asada,4/14/2016,,,,,,,7.89,2.0,,,,,,3.0,2.5,4.5,3.5,4.5,3.0,4.0,3.5,5.0,Richard,A little small. No rice and beans or cheese or sour cream,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+66,California Burritos,California Everything,4/15/2016,Linda Vista,7754 Starling Dr,https://www.yelp.com/biz/california-burritos-san-diego,4.5,4.4,x,6.25,4.0,,,,,,4.5,4.5,2.5,3.5,3.5,3.5,3.0,4.0,5.0,Scott,,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+67,California Burritos,California Everything,4/15/2016,,,,,,,6.25,3.5,,,,,,4.0,4.0,4.0,2.5,3.0,3.5,4.0,4.0,5.0,Brent,Brent doesn't like fries in his burrito,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+68,California Burritos,California Everything,4/15/2016,,,,,,,6.25,4.0,,,,,,4.0,4.5,4.5,5.0,5.0,5.0,4.5,5.0,5.0,Luis,,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+69,California Burritos,Chile relleno and carnitas,4/15/2016,,,,,,,6.5,5.0,,,,,,4.5,5.0,5.0,5.0,5.0,4.0,4.0,5.0,5.0,Karl,,x,,,x,,x,,x,x,,,,x,,,,,,,,,,,,,,x,,,,,,,,,,,True
+70,California Burritos,California (only cheese),4/15/2016,,,,,,,6.25,2.0,,,,,,5.0,5.0,5.0,4.0,4.0,2.0,,5.0,5.0,Kalen,,x,,x,,,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+71,Vallarta express,Fish,4/15/2016,,,,,,,6.5,2.5,,,,,,3.0,,3.5,4.0,4.0,3.0,,4.0,1.5,Erin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+72,Vallarta express,California,4/15/2016,,,,,,,6.65,3.5,,,,,,3.5,,3.5,3.5,4.5,3.5,3.5,4.0,4.0,Ricardo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+73,Jorge's Mexicatessen,California ,4/24/2016,Encinitas ,267 N El Camino Real,https://www.yelp.com/biz/jorges-mexicatessen-encinitas,4.0,4.5,,5.95,3.5,,,20.0,22.0,0.77,2.5,2.5,3.5,4.0,3.0,4.5,4.0,4.5,4.5,Scott,"Cheese should be melted, potatoes are very good",,,X,,,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+74,Jorge's Mexicatessen,Chimichanga beef,4/24/2016,,,,,,,5.5,3.0,,,,,,2.0,4.0,3.0,3.0,3.0,4.0,3.5,3.5,,Emily,,,,X,X,X,X,,X,,,,,X,X,,,,,,X,,,,,,,,,,,,,,,,,,False
+75,Senor Grubby's,California,4/24/2016,Carlsbad,377 Carlsbad Village Dr,eatgrubbys.com,4.0,4.1,,9.0,2.0,,,19.0,21.5,0.7,2.0,3.5,3.0,1.5,1.0,1.0,2.5,1.5,3.5,Scott,"The ends of the burrito were decent, but the middle was terrible without much meat",,,x,x,,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+76,Senor Grubby's,Pastor,4/24/2016,,,,,,,9.0,2.0,,,18.5,23.0,0.78,2.5,2.5,1.5,2.5,1.0,2.0,2.5,2.0,5.0,Emily,,,,,,x,,,,x,,,,,,,,,,,,,x,x,,,,,,,,,,,,,,,False
+77,Taco stand,California,4/25/2026,,,,,,,8.0,4.0,,,21.59,,,4.5,5.0,5.0,5.0,4.5,5.0,3.0,5.0,5.0,Sage,A wonderful eating experience. best California burrito I've ever had by far. ,,,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+78,Mi Asador Mexican & Seafood ,California ,4/27/2016,Oceanside,4750 Oceanside Blvd,https://sites.google.com/site/miasador/,4.5,4.4,x,6.89,3.0,,,25.0,22.0,0.96,3.0,2.5,3.0,2.5,2.5,2.0,3.5,3.0,4.0,Scott,,,,X,,X,x,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+79,Mi Asador Mexican & Seafood ,El Hawaiiano ,4/27/2016,,,,,,,6.39,3.0,,,23.0,22.5,0.93,4.0,3.0,2.5,3.5,3.0,3.0,3.5,4.0,3.5,Emily,Pineapple is really good,,,X,,X,X,,X,,,,,,,,,,,,,,,,,X,,,,,,,,,,,,,False
+80,Sotos Mexican Food,California,5/4/2016,Miramar ,6904 Miramar Rd,https://www.yelp.com/biz/sotos-mexican-food-san-diego,4.5,4.6,x,6.75,3.0,,,22.5,23.0,0.95,4.5,4.0,3.0,4.0,1.0,3.0,4.5,3.5,4.5,Scott,Fries are good. Too little meat,,,X,,X,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+81,Sotos Mexican Food,Pastor,5/4/2016,,,,,,,5.99,2.0,,,21.0,22.0,0.81,4.0,2.0,2.5,4.0,4.0,3.0,3.5,4.0,5.0,Emily,Free lime. Ingredients chopped finely,,,,,X,,,,X,,,,,,,,,,,,,X,X,,,,,,,,,,,,,,,False
+82,Taco stand,California,5/6/2016,,,,,,,7.49,3.5,,,19.0,22.0,0.73,3.5,4.0,4.0,4.0,3.5,3.0,4.0,4.5,3.0,Scott,Less meat than usual,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+83,Taco stand,California,5/6/2016,,,,,,,7.49,4.0,,,16.5,25.0,0.82,4.0,3.5,4.0,4.0,4.5,5.0,4.5,5.0,4.5,Ricardo,,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+84,Taco stand,California,5/6/2016,,,,,,,7.49,4.0,,,17.0,25.5,0.88,3.0,3.0,4.0,3.5,3.5,4.0,3.5,4.0,2.5,Luis,,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+85,Taco stand,California,5/6/2016,,,,,,,7.49,3.0,,,17.7,21.5,0.65,4.0,2.0,5.0,5.0,1.0,3.0,5.0,4.0,3.0,Elynn,,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+86,Taco stand,California,5/6/2016,,,,,,,7.49,1.0,,,20.0,23.5,0.88,4.0,3.0,4.0,4.5,5.0,4.5,3.0,4.5,4.0,Sandra,,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+87,Taco stand,Carne asada,5/6/2016,,,,,,,7.89,4.0,,,18.0,25.0,0.9,4.0,2.0,4.0,3.0,4.0,4.0,4.0,3.5,4.0,Brent,,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+88,Taco stand,Shrimp,5/6/2016,,,,,,,8.95,5.0,,,17.0,22.0,0.65,4.0,4.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,Sankeerth,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+89,Vallarta express,California,5/9/2016,,,,,,,6.95,4.0,,,21.0,23.0,0.88,3.0,3.5,2.0,3.5,3.0,2.5,2.5,2.5,2.0,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+90,Lolita's taco shop,California,5/12/2016,,,,,,,7.0,3.5,,,17.5,24.5,0.84,3.0,5.0,3.0,3.5,3.0,1.5,3.0,3.0,4.0,Scott,,,,x,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+91,Lolita's taco shop,2 in 1,5/12/2016,,,,,,,8.75,3.0,,,19.0,21.5,0.7,3.0,4.0,2.7,4.7,3.0,2.4,2.0,3.7,4.5,Bankole,,,,x,,x,x,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,False
+92,Lolita's taco shop,2 in 1,5/12/2016,,,,,,,8.75,4.0,,,17.78,22.225,0.7,4.5,3.8,3.8,4.5,3.4,1.5,3.0,3.8,4.0,Katie,,,,x,,x,x,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,False
+93,Rigoberto's Taco Shop,El Rusio,5/13/2016,,,,,,,6.65,4.0,,,21.5,23.0,0.91,3.0,4.5,2.5,2.0,3.5,5.0,1.5,2.0,1.5,Scott,Fries are terrible. Burrito leaked,,,x,x,,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+94,Rigoberto's Taco Shop,Carne asada,5/13/2016,,,,,,,6.6,4.0,,,22.0,22.0,0.85,4.0,3.5,4.0,4.0,3.5,4.0,4.0,4.5,4.5,Ricardo,,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+95,Rigoberto's Taco Shop,Carne asada,5/13/2016,,,,,,,6.6,4.5,,,23.0,22.0,0.89,4.0,3.0,3.0,3.0,3.5,3.0,,3.5,4.5,Erin,Meat was too salty,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+96,Rigoberto's Taco Shop,Carnitas,5/13/2016,,,,,,,7.5,4.0,,,23.5,22.5,0.95,4.0,5.0,4.0,5.0,5.0,4.0,5.0,4.0,4.0,Elynn,,,,,x,x,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+97,Rigoberto's Taco Shop,Bacon breakfast,5/13/2016,,,,,,,6.25,3.5,,,22.0,22.0,0.85,4.0,3.5,4.0,4.0,5.0,5.0,,5.0,4.5,Luis,,,,,,,x,x,,,,,,,,,,,,,,,,,,,,,,,,x,,x,,,,,True
+98,Rigoberto's Taco Shop,Chile Relleno,5/13/2016,,,,,,,6.6,5.0,,,23.0,24.0,1.05,5.0,4.0,,5.0,5.0,4.0,,5.0,3.0,Matteo,,x,,,,,x,,x,,,,,,,x,,,,,x,,,,,,,x,,,,,,,,,,,True
+99,Rigoberto's Taco Shop,Fish,5/13/2016,,,,,,,6.0,2.0,,,23.0,23.5,1.01,5.0,4.5,5.0,5.0,5.0,5.0,,5.0,4.0,Aga,,x,,,,,,,,,,,x,,,x,x,,,,,,x,x,,,,,,,,,,,,,,,True
+100,Karina's Taco Shop ,Bomb,5/15/2016,Encinitas ,916 N Coast Hwy 101,https://www.yelp.com/biz/karinas-taco-shop-encinitas,4.0,4.2,,7.99,3.0,,,25.5,23.0,1.07,4.0,4.0,4.0,3.5,2.5,3.5,4.0,3.5,2.5,Scott,,,,X,,X,X,X,X,,,,,,,,,,,,,,,,X,,,,,,,,,,,,,,False
+101,Karina's Taco Shop ,California ,5/15/2016,,,,,,,6.99,2.5,,,21.5,22.125,0.84,3.5,4.0,3.5,3.5,3.0,1.0,4.0,4.0,4.5,Emily,,,,X,,,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+102,Juanita's Taco Shop,California ,5/18/2016,Encinitas ,290 N Coast Hwy 101,https://www.yelp.com/biz/juanitas-taco-shop-encinitas,4.0,4.5,,5.55,3.5,,,17.5,23.0,0.74,4.0,4.5,3.0,3.0,5.0,3.0,4.0,3.0,5.0,Scott,,,,X,,,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+103,Juanita's Taco Shop,Arizona,5/18/2016,,,,,,,5.55,2.5,,,20.5,22.5,0.83,4.5,4.0,3.5,4.0,3.5,4.0,3.0,4.0,5.0,Emily,,,,X,X,X,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+104,Goody's,Custom,5/20/2016,La Jolla,9500 Gilman Drive,https://www.yelp.com/biz/goodys-place-and-market-la-jolla,3.5,4.1,,7.25,3.5,,,18.5,22.5,0.75,1.5,1.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,Scott,Grocery store tortilla; cold guac,,,x,x,x,x,,,,,,,x,x,,,,,,,x,,,,,,,,,,,,,,,,,False
+105,Pedro's Tacos,California Burrito,5/22/2016,Oceanside,,,,,,6.5,5.0,,,,,,3.0,,4.0,5.0,4.0,4.0,,5.0,5.0,Erika N,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+106,Los Primos Mexican Food,619 Burrito Original,5/16/2016,,,,,,x,11.75,4.0,,,,,,3.0,,4.0,5.0,4.0,4.0,5.0,4.0,3.0,Sai G,,x,,x,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,True
+107,Kotija Jr.,Fish,5/20/2016,,,,,,,6.5,4.0,,,,,,3.0,,4.0,4.0,5.0,4.0,4.0,5.0,4.0,Jonathan G,Great fish burrito. Not fishy and has great crunch from both cabbage and fried fish. Super generous with amount of fish given,x,,,,,,,,,,,x,,,,,,,x,x,,,,,,,,,,,,,,,,,,True
+108,La Perla Cocina,California,5/16/2016,,,,,,,6.5,5.0,,,,,,4.0,,4.0,4.0,5.0,4.0,4.0,4.0,5.0,Laya,A LOT of carne asada!,x,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+109,Goody's,Custom,5/16/2011,La Jolla,,,,,,8.0,4.0,,,,,,3.0,,2.0,3.0,2.0,3.0,2.0,3.0,2.0,Albert N,"The price has gone up for the past two years. I would probably rate this lower because of it, but my scores were on raw taste only.",x,,x,x,x,,,x,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,False
+110,Goody's,Custom,5/20/2016,La Jolla,,,,,,8.0,3.0,,,,,,3.0,,1.0,2.0,2.0,2.0,2.0,2.0,1.0,Brittany T,It's gone downhill since 2013. Expensive and only ate it because there's nothing else around. closes early. skimping on the portions.,x,,,,,x,,x,,x,,,,x,x,,,,,,x,,,,,,,,,,,,,,,,,False
+111,Chipotle,Custom,5/22/2016,,,,,,,7.0,3.5,,,,,,3.0,,5.0,3.0,3.0,4.0,4.0,4.0,4.0,Gurkirat S,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+112,Rigoberto's Taco Shop,Al pastor,4/20/2015,,,,,,,,4.0,,,,,,5.0,,5.0,5.0,5.0,4.0,5.0,5.0,5.0,Erica,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+113,Taco Surf PB,California,5/23/2016,Pacific Beach,4657 Mission Blvd,https://www.yelp.com/biz/taco-surf-taco-shop-san-diego,4.0,4.6,,7.14,3.5,,,20.0,23.0,0.84,4.0,2.0,4.0,5.0,4.0,2.0,4.0,4.5,5.0,Scott,not too much rice,,,x,,x,x,x,x,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,True
+114,Taco Surf PB,California,5/23/2016,,,,,,,7.14,5.0,,,20.5,24.0,0.94,4.0,2.0,4.5,4.0,3.5,2.0,3.0,4.0,4.0,Sage,hashbrowns instead of fries; anterior-posterior uniformity is good but medial-lateral is bad,,,x,,x,x,x,x,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,True
+115,Taco Surf PB,Carne asada,5/23/2016,,,,,,,6.02,3.2,,,19.5,20.5,0.65,4.5,2.0,3.3,3.4,4.5,4.5,3.8,3.7,5.0,Dan,one hot side and one cold side from the guac,,,x,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+116,Roberto's Very Mexican Food,Chicken asada,5/24/2016,Del Mar,2206 Carmel Valley Road,https://www.yelp.com/biz/robertos-very-mexican-food-del-mar-2,3.5,3.9,,6.5,2.0,,,18.5,21.5,0.68,1.5,4.0,2.0,2.0,4.5,1.0,1.0,2.0,5.0,Scott,,,,,x,x,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+117,Roberto's Very Mexican Food,Carnitas,5/24/2016,,,,,,,5.4,3.0,,,18.0,20.0,0.57,2.0,3.5,4.0,2.5,3.5,1.5,1.5,3.0,5.0,Emily,,,,,x,x,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+118,Netos Mexican Food,California ,5/26/2016,San Marcos,325 S Rancho Santa Fe Rd,https://www.yelp.com/biz/netos-mexican-food-san-marcos,4.5,4.1,x,5.99,4.0,,,20.5,23.5,0.9,4.5,5.0,3.0,4.0,2.0,2.0,2.0,3.75,4.0,Scott,not 100% certain about the ingredients (was there guac and pico?),,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+119,Netos Mexican Food,Carne adobada ,5/26/2016,,,,,,,5.5,3.0,,,20.75,23.5,0.91,3.5,4.0,3.5,3.0,3.5,3.5,2.5,3.0,2.5,Emily,"Best free chips, novel burrito",,,x,x,x,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,False
+120,Lolita's Taco shop,Carne asada,5/27/2016,,,,,,,6.25,4.0,,,15.0,20.5,0.5,1.5,2.5,3.0,4.5,4.0,2.0,2.75,3.75,3.0,Scott,Way too small,,,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+121,Lolita's Taco shop,Shrimp,5/27/2016,,,,,,,8.95,3.5,,,18.5,25.0,0.92,3.0,3.0,4.0,4.0,3.5,3.5,2.5,4.0,0.5,Emily,,,,,X,,,,,,,X,,,,X,,,,,X,,,,,,,,,,,,,,,,,,False
+122,Lolita's Taco shop,Bean and cheese,5/27/2016,,,,,,,3.5,1.0,,,16.0,20.0,0.51,3.5,4.5,,3.0,,4.0,3.0,2.5,4.0,Scott,,,,,,,x,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,False
+123,Pokirrito,Pokirrito classic ,5/29/2016,Kearny Mesa,4646 Convoy St,https://www.yelp.com/biz/pokirrito-san-diego-2,4.0,4.3,x,11.95,4.0,,,18.0,23.5,0.79,3.5,4.0,4.0,4.5,2.5,2.5,3.0,4.0,2.0,Scott,Lotus chips add good crunch,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,True
+124,Pokirrito,Mauna Lani,5/29/2016,,,,,,,11.95,3.0,,,20.0,22.75,0.82,3.0,4.0,4.0,4.0,3.0,2.5,4.5,4.0,1.5,Emily,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,True
+125,Los Primos Mexican Food,California,5/29/2016,,,,,,,7.5,4.0,,,,,,3.0,5.0,3.5,3.5,4.0,4.0,2.5,3.0,5.0,Sage,,,,,x,,x,x,,,x,,,,,,x,,,,,,,,,,,,,,,,,,,,,,False
+126,El Nopalito ,Especial ,6/1/2016,Encinitas,582 Santa Fe Dr,https://www.yelp.com/biz/el-nopalito-encinitas,4.0,4.0,x,4.87,2.0,,,19.0,23.5,0.83,3.0,4.0,1.5,2.0,3.0,5.0,3.0,2.5,5.0,Scott,"It's pretty good for what it is, but just not the best ingredients for a burrito. also Few white people",,,X,,X,X,,,,,,,X,X,X,X,,,,,,,,,,,,,,,,,,,,,,False
+127,El Nopalito ,Ranchero steak,6/1/2016,,,,,,,4.87,2.5,,,19.5,20.5,0.65,3.5,3.0,2.5,2.4,3.5,4.5,3.0,3.0,1.5,Emily,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+128,Goody's,Carne Asada,5/21/2016,,,,,,,6.25,4.5,,,,,,3.5,3.0,2.0,2.0,2.5,3.0,2.0,1.5,1.0,Kevin,"Sucks, but it is okay.",x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+129,Saguaro's ,Vegetarian,6/20/2016,,,,,,,5.25,4.0,,,,,,4.0,5.0,,5.0,4.0,4.0,5.0,5.0,5.0,Brian,"Great rice and beans burrito, doesn't come with cheese or sour cream. ",x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+130,Colima's ,Colimas burrito,5/31/2016,,,,,,x,8.25,4.0,,,,,,5.0,5.0,5.0,5.0,5.0,5.0,,5.0,4.5,Brian,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+131,"Alberto's 623 N Escondido Blvd, Escondido, CA 92025",Carne Asada,5/5/2016,,,,,,,4.59,4.0,,,17.0,21.0,0.6,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,Chuck K,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+132,MXN on Washington,Bean and rice grande size,5/20/2016,,,,,,,2.99,3.0,,,,,,4.5,3.5,,4.5,,3.5,3.0,4.0,4.0,Sarah,Got green and hot salsa put inside the burrito-drive thru,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+133,El Zarape,Surf and Turf,5/19/2016,,,,,,,7.0,2.5,,,,,,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,Damien B,Get the green sauce,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+134,Lolita's,Bean and Cheese,5/19/2016,,,,,,,,4.3,,,,,,3.8,4.0,,4.7,,5.0,,4.7,5.0,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+135,Humbertos,Pollo california,5/27/2016,,,,,,,6.0,5.0,,,,,,4.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,Logan,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+136,Chili Peppers,Surf & Turf,5/28/2016,,,,,,,9.43,,,,,,,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,Chris H,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+137,Los Primos Mexican Food,Monster California,6/3/2016,,,,,,,9.25,3.5,,,25.5,24.0,1.17,2.0,1.0,3.0,3.0,1.0,,3.0,2.0,4.0,Scott,,,,X,X,X,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+138,Los Primos Mexican Food,California,6/3/2016,,,,,,,7.0,3.0,,,20.0,22.0,0.77,4.5,4.0,3.5,4.0,1.0,1.0,2.0,2.0,4.0,Ricardo,,,,X,X,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+139,Los Primos Mexican Food,California breakfast,6/3/2016,,,,,,,6.25,2.5,,,18.5,22.5,0.75,3.0,4.0,3.0,2.0,1.5,1.0,3.0,1.5,3.0,Erin,,,,x,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,False
+140,Los Primos Mexican Food,Baja monster,6/3/2016,,,,,,,6.0,4.0,,,,,,3.0,3.0,1.0,4.0,2.0,2.0,3.0,2.0,1.0,Elynn,,,,,x,x,,,,x,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,False
+141,Los Primos Mexican Food,Baja monster,6/3/2016,,,,,,,6.0,3.0,,,,,,4.0,3.5,4.0,4.0,2.0,4.0,4.0,4.0,3.0,Rob,,,,,x,x,,,,x,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,False
+142,Los Primos Mexican Food,Carnitas,6/3/2016,,,,,,,6.35,4.5,,,18.0,20.5,0.6,4.0,4.0,2.5,2.0,3.0,2.0,2.0,2.0,3.0,Matteo,,,,,,x,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+143,Los tacos ,Local,6/5/2016,Oceanside,2183 Vista Way,https://www.yelp.com/biz/los-tacos-oceanside,4.0,4.2,,7.9,3.5,,,20.5,21.5,0.75,3.5,4.5,4.5,4.0,1.5,1.5,3.0,4.0,5.0,Scott,,,,,X,,X,X,,X,,,,,,,,,,,,,,,,X,,,,,,,,,,,,,False
+144,Los tacos ,Fusion,6/5/2016,,,,,,,8.5,3.5,,,18.5,21.0,0.65,4.0,4.0,4.0,3.5,4.0,4.0,4.0,4.5,4.5,Emily,,,,X,,X,X,,,X,,,,,,,,,,,,,X,X,,,,,,,,,,,,,,,True
+145,Taco Stand,Al pastor,6/6/2016,,,,,,,6.99,3.5,,,18.5,21.0,0.65,4.0,3.5,4.0,3.5,4.0,5.0,2.5,4.0,4.5,Scott,,,,,,,,,,x,,,,,,,,,,,x,,x,x,,x,,,,,,,,,,,,,False
+146,Taco Stand,Al pastor,6/6/2016,,,,,,,6.99,5.0,,,,,,4.0,4.0,4.0,4.0,2.0,3.0,3.0,4.0,3.0,Brad P,,,,,,,,,,x,,,,,,,,,,,x,,x,x,,x,,,,,,,,,,,,,False
+147,Albertacos,California ,6/8/2016,San Marcos,500 W San Marcos Blvd # 103,https://www.yelp.com/biz/albertacos-san-marcos,3.5,3.9,,5.7,3.5,,,20.5,21.5,0.75,3.5,3.0,3.0,4.0,1.5,4.0,4.0,4.0,4.0,Scott,,,,X,X,X,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+148,Albertacos,Carne asada,6/8/2016,,,,,,,5.25,4.0,,,21.0,21.0,0.74,3.5,3.0,2.8,3.5,4.0,4.0,4.0,3.5,5.0,Emily,,,,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+149,El Rey Moro,California Surf,6/9/2016,Clairemont,4471 Clairemont Mesa Blvd,https://www.yelp.com/biz/el-rey-moro-taco-shop-san-diego,4.0,3.8,,9.19,2.8,,,20.5,23.5,0.9,3.5,4.5,4.0,3.5,5.0,4.5,3.0,3.5,5.0,Scott,shrimp is really good. too much chipotle sauce,,,X,,X,X,X,,,,X,,,,,,,,,X,,,,,,,,,,,,,,,,,,True
+150,Tacos por favor,Carne asada,6/11/2016,Santa Monica,1408 Olympic Blvd,https://www.yelp.com/biz/el-dorado-mexican-food-temecula,4.0,4.1,x,7.85,3.0,,,16.5,20.5,0.55,3.0,4.5,4.5,3.5,3.5,3.5,1.0,4.0,1.0,Scott,,,x,X,X,X,,,,,,,,X,X,,,,,,,,,,,,,,,,,,,,,,,,False
+151,Tacos por favor,Al pastor,6/11/2016,,,,,,,6.85,4.0,,,15.5,21.0,0.54,3.0,5.0,4.0,3.0,5.0,4.0,3.0,4.0,3.0,Christian,,,x,,X,,,,,x,,,,X,X,,,,,,,,,,,,,,,,,,,,,,,,True
+152,Tacos por favor,Carne asada,6/11/2016,,,,,,,6.85,4.0,,,18.0,,,4.0,5.0,3.5,3.0,4.0,4.0,3.0,3.0,3.0,Sam H,,,x,X,X,,,,,,,,,X,X,,,,,,,,,,,,,,,,,,,,,,,,False
+153,El Dorado Mexican Food,California,6/16/2016,Temecula,29000 Old Town Front St,https://www.yelp.com/biz/el-dorado-mexican-food-temecula,4.5,4.0,,6.94,4.0,,,,,,4.0,4.0,4.0,4.5,3.2,3.0,4.5,4.5,2.0,Scott,Salsa verde has an interesting hint of garlic,,,X,,X,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+154,El Dorado Mexican Food,Super,6/16/2016,,,,,,,6.94,3.75,,,,,,3.5,3.5,3.5,3.5,4.0,4.0,4.5,3.5,4.5,Emily,,,,X,,X,X,,X,,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,False
+155,Lolita's Taco Shop,California,6/23/2016,,,,,,,7.0,2.2,,,18.0,25.0,0.9,2.8,3.0,3.0,2.0,2.0,4.5,2.0,1.5,4.5,Scott,,,,x,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+156,Lolita's Taco Shop,California,6/23/2016,,,,,,,7.0,3.5,,,18.0,23.5,0.79,4.0,4.0,4.0,3.0,4.0,5.0,4.0,4.0,5.0,Cris,,,,x,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+157,Lolita's Taco Shop,California,6/23/2016,,,,,,,7.0,3.0,,,19.0,24.0,0.87,3.5,2.0,3.0,4.0,2.0,4.0,3.0,3.0,4.0,Matt,,,,x,,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+158,Lolita's Taco Shop,Mixed,6/23/2016,,,,,,,8.25,4.0,,,,,,4.0,3.0,4.0,4.0,4.0,5.0,3.0,4.0,5.0,Marc,,,,x,,x,x,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,False
+159,California Burritos,California Everything,6/24/2016,,,,,,,6.25,3.0,,,23.5,21.5,0.86,3.8,1.3,3.5,3.5,4.5,4.5,3.5,4.0,5.0,Scott,Temperature brought it down,,,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+160,California Burritos,California Everything,6/24/2016,,,,,,,6.25,4.5,,,22.5,22.0,0.87,4.0,4.0,4.5,4.0,4.0,3.5,4.0,4.0,4.5,Ricardo,,,,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+161,California Burritos,California Everything,6/24/2016,,,,,,,6.25,4.0,,,22.5,22.0,0.87,3.0,2.5,4.0,4.0,4.0,2.0,2.0,3.0,4.0,Elynn,,,,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+162,California Burritos,California Everything,6/24/2016,,,,,,,6.25,3.0,,,23.0,22.5,0.93,5.0,4.0,4.0,4.5,4.0,4.5,,4.0,4.0,Erin,,,,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+163,California Burritos,California Everything,6/24/2016,,,,,,,6.25,4.0,,,,,,4.0,3.5,4.5,4.0,4.5,4.0,4.5,4.5,5.0,Luis,,,,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+164,California Burritos,Carnitas,6/24/2016,,,,,,,5.5,4.5,,,21.5,20.0,0.68,5.0,4.0,5.0,4.0,4.5,4.0,4.0,4.5,4.0,Matteo,,,,,,x,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+165,California Burritos,Carne asada everything,6/24/2016,,,,,,,6.25,3.0,,,23.0,23.0,0.97,4.0,3.0,4.0,3.0,4.0,3.0,3.0,4.0,4.0,Brent,,,,x,x,x,x,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+166,California Burritos,Carne asada everything,6/24/2016,,,,,,,6.25,4.5,,,21.5,20.5,0.72,4.0,5.0,4.5,4.0,4.5,4.0,3.0,4.0,5.0,Daniel,,,,x,x,x,x,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+167,California Burritos,Carne asada everything,6/24/2016,,,,,,,6.25,5.0,,,23.0,21.5,0.85,4.0,3.0,5.0,4.0,4.0,4.0,5.0,5.0,3.0,Alejandro,,,,x,x,x,x,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+168,California Burritos,California Everything,8/1/2016,,,,,,,6.25,4.0,,,22.0,20.8,0.76,4.0,4.0,3.5,4.0,3.0,4.0,4.0,3.5,4.5,Ricardo,,,,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+169,California Burritos,California Everything,8/1/2016,,,,,,,6.25,4.0,,,22.5,21.5,0.83,3.0,2.0,4.0,5.0,4.0,4.0,3.0,4.0,3.0,Elynn,,,,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+170,California Burritos,California Everything,8/1/2016,,,,,,,6.25,4.0,,,23.0,21.5,0.85,4.0,3.5,3.5,4.0,3.5,4.0,3.5,4.0,4.5,Matteo,,,,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+171,California Burritos,California Everything,8/1/2016,,,,,,,6.25,3.5,,,21.0,22.5,0.85,3.5,2.0,3.0,3.5,3.5,2.5,2.5,3.5,4.5,Scott,,,,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+172,California Burritos,Carne asada everything,8/1/2016,,,,,,,6.25,4.5,,,22.0,20.0,0.7,4.5,4.0,4.0,4.5,4.0,4.0,4.5,4.5,4.0,Brent,,,,x,x,x,x,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+173,Los Primos Mexican Food,Surf & Turf,8/6/2016,,,,,,,7.0,2.5,,,20.5,21.75,0.77,4.0,4.0,2.0,3.0,2.0,3.5,3.0,3.0,4.5,Emily,,,,X,,,X,,,,,,,,,,,X,,,,,,X,,,,,,,,,,,,,,,False
+174,Los Primos Mexican Food,Adobada,8/6/2016,,,,,,,6.25,2.0,,,20.5,20.0,0.65,4.0,2.5,2.5,3.0,2.0,4.0,3.5,3.0,4.5,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+175,Los Primos Mexican Food,Carne asada,8/6/2016,,,,,,,7.0,4.0,,,18.5,20.5,0.62,3.5,3.0,2.0,2.0,1.0,3.0,3.5,1.5,4.0,Ricardo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+176,Papa Chito's Mexican Food,California,8/9/2016,University City,3951 Governor Dr,https://www.yelp.com/biz/papa-chitos-mexican-food-san-diego,2.5,3.3,,6.25,3.5,,,21.5,20.0,0.68,3.5,3.5,2.5,2.5,2.5,4.0,2.0,1.5,5.0,Scott,,,,x,x,,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+177,Papa Chito's Mexican Food,California,8/9/2016,,,,,,,6.25,4.0,,,20.0,20.0,0.64,4.0,5.0,3.0,3.0,4.0,3.5,4.0,4.0,5.0,Sage,,,,x,x,,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+178,El Pueblo Mexican Food,California,8/10/2016,Cardiff ,820 Birmingham Dr,https://www.yelp.com/biz/el-pueblo-authentic-mexican-food-cardiff-by-the-sea,4.0,4.7,,4.99,4.0,,,19.0,21.0,0.67,4.5,4.5,3.5,4.0,4.5,5.0,2.5,4.5,5.0,Scott,,,,x,x,,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+179,Burros and Fries,California,8/12/2016,Clairemont,4705 Clairemont Dr,http://www.burrosandfries.com/,3.5,4.1,,6.89,4.0,,,21.5,22.5,0.87,3.5,4.5,3.5,3.5,3.0,1.5,2.5,3.5,5.0,Scott,good fries,,,x,x,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+180,Burros and Fries,Carne asada,8/12/2016,,,,,,,6.89,5.0,,,18.5,21.0,0.65,3.0,5.0,4.5,4.5,3.0,4.0,4.5,4.0,4.5,Brent,very little guac,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+181,King Burrito,Adobada,8/16/2016,Oceanside,3490 Marron Rd,https://www.yelp.com/biz/king-burrito-oceanside-2,4.0,3.9,,4.99,3.5,,,23.0,19.0,0.66,3.0,3.0,3.0,3.0,2.5,2.0,2.5,3.0,4.0,Emily,Too much tortilla per bite,,,,X,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+182,King Burrito,California,8/16/2016,,,,,,,5.29,3.5,,,22.5,20.5,0.75,2.5,4.5,2.0,3.0,2.5,1.5,3.0,2.0,4.5,Scott,it does taste homemade. but that's not a good thing,,,x,x,,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+183,Taco Stand,California ,8/17/2016,,,,,,,7.49,2.0,,,18.5,21.5,0.68,4.0,5.0,4.5,3.5,3.5,2.0,3.5,4.0,5.0,Scott,,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+184,Taco Stand,California ,8/17/2016,,,,,,,7.49,2.5,,,16.5,23.5,0.73,3.5,5.0,4.0,3.0,4.0,4.5,3.0,3.5,5.0,TJ,,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+185,Carmen's Mexican Food,Adobada,8/19/2016,Clairemont,4937 Diane Ave,https://www.yelp.com/biz/carmens-authentic-mexican-food-san-diego,4.0,4.2,,6.5,3.5,,,20.5,20.5,0.69,2.5,4.0,3.5,4.0,4.0,3.0,1.5,3.5,5.0,Scott,really good guac,,,,,x,,,,x,,,,,x,,,,,,,,x,x,,,,,,,,,,,,,,,False
+186,Carmen's Mexican Food,Carne asada,8/19/2016,,,,,,,6.5,5.0,,,21.0,21.0,0.74,4.5,4.5,3.5,4.0,4.0,3.5,4.0,4.0,4.0,Brent,,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+187,Senor Panchos,Pollo asado,8/21/2016,San Marcos,1909 W San Marcos Blvd,https://www.yelp.com/biz/senor-panchos-mexican-restaurant-san-marcos,4.0,4.2,,6.25,3.5,,,21.5,19.5,0.65,2.5,3.5,3.0,3.0,5.0,4.5,3.5,2.0,5.0,Scott,"guac is good, very avocado-y",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+188,Senor Panchos,California,8/21/2016,,,,,,,6.25,3.0,,,21.0,19.5,0.64,3.0,4.0,4.0,3.0,3.5,4.5,4.0,4.0,5.0,Emily,feels very dense; a lot of meat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+189,Los Cabos,California,8/27/2016,San Marcos,165 S Rancho Santa Fe Rd,https://www.yelp.com/biz/los-cabos-san-marcos,4.0,4.1,x,5.99,4.0,,,18.5,21.0,0.65,4.0,4.5,2.5,2.5,2.5,1.5,3.0,4.0,5.0,Scott,Repeatedly get large bites of sour cream,,,X,,,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+190,Los Cabos,Al pastor,8/27/2016,,,,,,,5.69,3.0,,,17.5,23.5,0.77,4.0,4.5,3.0,3.5,4.0,3.5,2.5,4.0,4.5,Emily,Really good with lime,,,,,X,,,,X,,,,,,,,,,,,,X,X,,,,,,,,,,,,,,,True
+191,Rubios UCSD,Tilapia one,8/30/2016,UTC,9500 Gilman Dr,https://www.yelp.com/biz/rubios-la-jolla-4,3.5,3.4,x,7.99,3.5,,,17.0,20.0,0.54,1.5,4.0,3.0,3.0,1.5,4.5,2.5,3.0,1.5,Scott,,,,,,X,,,,,,,X,X,,,,,,X,,,,,,,,,,,,,,,,,x,,False
+192,Lucha Libre North Park,Surf & Turf,8/30/2016,North Park,3016 University Ave,https://www.yelp.com/biz/lucha-libre-san-diego,3.5,4.3,x,8.25,4.0,,,19.0,22.5,0.77,3.0,2.5,3.0,3.0,3.0,3.0,3.5,3.0,3.0,Hannah,,,,x,x,,,,,,,x,,x,,,,,,,x,,,,,,,,,,,,,,,x,,,False
+193,Lucha Libre North Park,Surf & Turf,8/30/2016,,,,,,,8.25,3.0,,,19.0,24.0,0.87,5.0,3.0,5.0,4.0,2.0,2.0,5.0,2.0,2.0,Tammy,,,,x,x,,,,,,,x,,x,,,,,,,x,,,,,,,,,,,,,,,x,,,False
+194,Lucha Libre North Park,Surf & Turf,8/30/2016,,,,,,,8.25,3.9,,,,,,2.1,1.9,2.6,2.4,2.9,3.2,4.0,2.5,3.0,Bankole,Not as good as the first time,,,x,x,,,,,,,x,,x,,,,,,,x,,,,,,,,,,,,,,,x,,,False
+195,Lucha Libre North Park,Surf & Turf,8/30/2016,,,,,,,8.25,4.0,,,20.0,22.0,0.77,3.0,2.5,2.0,2.8,3.5,3.5,4.0,3.0,4.0,Melissa N,,,,x,x,,,,,,,x,,x,,,,,,,x,,,,,,,,,,,,,,,x,,,False
+196,Lucha Libre North Park,Surf & Turf,8/30/2016,,,,,,,8.25,3.5,,,20.0,22.0,0.77,3.6,3.2,3.2,3.5,3.6,3.5,,3.8,3.9,Katie,,,,x,x,,,,,,,x,,x,,,,,,,x,,,,,,,,,,,,,,,x,,,False
+197,Lucha Libre North Park,Surfin California,8/30/2016,,,,,,,8.25,3.0,,,21.0,24.5,1.0,3.0,3.0,4.0,3.5,3.0,2.0,3.5,3.5,4.0,Emily,thick chips,,,x,x,,x,x,,,,x,,,,,,,,,x,,,,,,,,,,,,,,,x,,,False
+198,Lucha Libre North Park,Surfin California,8/30/2016,,,,,,,8.25,4.0,,,18.5,25.5,0.96,3.5,2.0,4.0,3.0,5.0,5.0,4.0,4.0,5.0,Melissa G,Good guac,,,x,x,,x,x,,,,x,,,,,,,,,x,,,,,,,,,,,,,,,x,,,False
+199,Lucha Libre North Park,Surfin California,8/30/2016,,,,,,,8.25,4.0,,,,,,4.0,3.0,3.0,3.0,3.0,2.0,3.0,3.0,4.0,Marc,"shrimp was questionable; salsa was mediocre to bad; overall ok, better than past burritos at lucha libre",,,x,x,,x,x,,,,x,,,,,,,,,x,,,,,,,,,,,,,,,x,,,False
+200,Lucha Libre North Park,Surfin California,8/30/2016,,,,,,,8.25,1.0,,,,,,3.0,2.0,4.0,3.0,5.0,5.0,4.0,3.5,5.0,Ashley G,good guac but fries could be better,,,x,x,,x,x,,,,x,,,,,,,,,x,,,,,,,,,,,,,,,x,,,False
+201,Lucha Libre North Park,Surfin California,8/30/2016,,,,,,,8.25,2.0,,,20.0,24.5,0.96,3.5,2.0,5.0,3.5,4.0,2.5,3.5,3.0,3.5,Richard,probably positively biased by service,,,x,x,,x,x,,,,x,,,,,,,,,x,,,,,,,,,,,,,,,x,,,False
+202,Lucha Libre North Park,Surfin California,8/30/2016,,,,,,,8.25,3.0,,,19.0,24.0,0.87,5.0,4.0,4.0,4.0,3.0,3.0,4.0,4.0,4.0,Mike,,,,x,x,,x,x,,,,x,,,,,,,,,x,,,,,,,,,,,,,,,x,,,True
+203,Lucha Libre North Park,Surfin California,8/30/2016,,,,,,,8.25,1.0,,,19.5,25.5,1.01,4.0,3.0,3.5,3.0,5.0,4.0,2.0,3.0,4.0,Sankha G,,,,x,x,,x,x,,,,x,,,,,,,,,x,,,,,,,,,,,,,,,x,,,False
+204,Lucha Libre North Park,Nutty,8/30/2016,,,,,,,7.5,3.8,,,19.0,25.0,0.94,3.8,4.0,4.0,4.0,4.0,4.0,4.5,4.5,4.5,Luis,,,,,,,x,x,x,,x,,,x,,,,,,,x,,,,,,,,,,,,,,,,,,True
+205,Lucha Libre North Park,Veg Out,8/30/2016,,,,,,,6.95,3.0,,,19.0,23.0,0.8,5.0,5.0,,5.0,,5.0,4.5,5.0,3.0,Aga,,,,,,,,,,,,,,,x,x,,x,,,x,,,,,,,,,,,,x,,,x,,x,True
+206,Lucha Libre North Park,Veggie,8/30/2016,,,,,,,5.25,3.0,,,19.5,25.5,1.01,4.5,4.5,,3.5,,3.0,4.0,3.5,5.0,Rob G,,,,,x,,,x,,,,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,False
+207,Lucha Libre North Park,Bean and cheese,8/30/2016,,,,,,,3.75,5.0,,,18.0,22.0,0.69,4.0,3.0,,1.0,,3.0,3.0,2.0,3.0,Meghan,Bland,,,,,,x,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,False
+208,Lucha Libre North Park,California - Steak,8/30/2016,,,,,,,7.5,2.5,,,19.0,23.5,0.83,3.0,3.0,5.0,3.5,3.0,3.5,4.5,4.0,4.5,Scott,"first bite sour cream, but probably the best steak I've had in a burrito",,,x,x,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+209,Lucha Libre North Park,California - Steak,8/30/2016,,,,,,,7.5,5.0,,,17.0,23.0,0.72,3.5,3.0,2.0,3.0,3.0,2.0,4.0,2.5,5.0,Devleena,fries = 4,,,x,x,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+210,Lucha Libre North Park,California - Pork Adobada,8/30/2016,,,,,,,7.5,4.0,,,18.0,24.5,0.86,2.0,3.0,3.0,3.0,4.0,3.0,4.0,3.0,5.0,Erik,,,,,x,,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+211,Lucha Libre North Park,California - Pork Adobada,8/30/2016,,,,,,,7.5,4.5,,,18.0,26.0,0.97,3.5,4.0,4.5,4.0,3.5,3.5,4.0,4.0,4.5,Ricardo,,,,,x,,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+212,Lucha Libre North Park,California - Pork Adobada,8/30/2016,,,,,,,7.5,2.0,,,19.0,25.0,0.94,4.0,5.0,5.0,4.0,4.5,4.5,5.0,4.5,4.0,Erin,,,,,x,,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+213,Lucha Libre North Park,California - Chicken,8/30/2016,,,,,,,7.5,4.0,,,20.0,23.5,0.88,3.5,2.5,3.0,4.5,3.0,2.0,5.0,4.5,3.5,Kelsey,,,,,x,x,x,x,x,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+214,Lucha Libre North Park,California - Chicken,8/30/2016,,,,,,,7.5,3.0,,,20.0,22.0,0.77,3.5,5.0,3.5,4.0,3.0,3.0,4.0,2.5,5.0,Javier,"large, bt feels good in my hands",,,,x,,x,x,x,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+215,Lucha Libre North Park,Holy Moly,8/30/2016,,,,,,,7.5,5.0,,,,,,3.5,2.0,3.5,3.5,3.0,4.0,2.0,2.0,4.0,Sam A,,,,,,,x,,x,,x,,,x,,,,,,,x,,,,,,,,,,,,,,,,,,False
+216,Lucha Libre North Park,Holy Moly,8/30/2016,,,,,,,7.5,3.0,,,17.0,21.0,0.6,2.5,2.5,3.0,2.0,2.0,1.0,5.0,1.0,5.0,Sage,all meat at bottom 1/8th,,,,,,x,,x,,x,,,x,,,,,,,x,,,,,,,,,,,,,,,,,,False
+217,Lucha Libre North Park,Holy Moly,8/30/2016,,,,,,,7.5,4.0,,,17.5,21.2,0.63,5.0,3.0,5.0,5.0,3.0,2.0,2.0,3.0,5.0,Aaron S,,,,,,,x,,x,,x,,,x,,,,,,,x,,,,,,,,,,,,,,,,,,True
+218,Lucha Libre North Park,Holy Moly,8/30/2016,,,,,,,7.5,5.0,,,19.0,21.0,0.67,5.0,4.0,2.0,1.0,4.0,3.0,5.0,4.0,2.0,Jaeyoung,Ordered a specialty burrito and guess I was expecting an ordinary one! Sauce was good but overpowering; no veggies at all; overall just did not feel like a burrito.,,,,,,x,,x,,x,,,x,,,,,,,x,,,,,,,,,,,,,,,,,,False
+219,Lucha Libre North Park,Holy Moly,8/30/2016,,,,,,,7.5,4.5,,,19.5,19.0,0.56,4.0,4.0,3.5,4.5,4.0,4.0,5.0,4.5,4.0,Matteo,,,,,,,x,,x,,x,,,x,,,,,,,x,,,,,,,,,,,,,,,,,,True
+220,Tacos La Bala,Pastor,9/5/2016,Houston,5800 Bellaire Blvd,tacoslabala.com,4.5,4.1,,4.99,3.5,,,,,,2.5,2.5,4.0,2.5,1.0,1.0,2.0,4.0,0.0,Scott,Everything is in spanish. Get a taco or sope,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+221,Tacos La Bala,Barbacoa ,9/5/2016,,,,,,,4.99,2.5,,,16.5,22.0,0.64,2.0,2.5,3.5,2.0,3.0,2.5,2.0,2.5,2.5,Emily,"Burritos cut in half, felt like a wrap instead of a burrito",,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+222,Cancun Mexican & Seafood,Adobada,9/9/2016,,,,,,,6.45,3.0,,,19.5,21.5,0.72,4.0,5.0,3.5,3.0,3.5,3.5,4.0,2.5,4.0,Scott,Free salad,,,,,X,,,,X,,,,,,,,,,,,,X,X,,,,,,,,,,,,,,,False
+223,Cancun Mexican & Seafood,California,9/9/2016,,,,,,,6.99,4.0,,,19.5,22.0,0.75,3.0,4.5,4.0,4.0,3.5,3.0,4.0,4.0,5.0,Emily,,,,X,,,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+224,Roberto's Taco Shop Clairemont,California,9/11/2016,Clairemont,3095 Clairemont Dr,https://www.yelp.com/biz/robertos-taco-shop-clairemont-san-diego,4.0,4.0,,5.79,4.0,,,,,,3.0,4.5,4.0,4.0,4.0,5.0,2.5,3.0,5.0,Scott,Fries are really good but the overall flavor is plain because lack of ingredients,,,x,,,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+225,Roberto's Taco Shop Clairemont,California,9/11/2016,,,,,,,5.79,4.0,,,,,,4.0,3.0,4.0,2.5,3.5,4.0,2.0,2.5,5.0,Benni,,,,x,,,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+226,Roberto's Taco Shop Clairemont,California + Guac + sour cream,9/11/2016,,,,,,,7.29,3.7,,,,,,3.8,4.7,4.0,3.5,4.5,4.0,4.0,4.5,5.0,Luis,,,,x,,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+227,Roberto's Taco Shop Clairemont,Carne asada,9/11/2016,,,,,,,5.69,3.0,,,,,,4.0,3.0,1.5,3.0,4.0,4.5,3.5,2.0,4.5,Ricardo,,,,x,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+228,Chipotle,Carnitas,9/13/2016,Carlsbad,2505 Palomar airport Rd,https://www.yelp.com/biz/chipotle-mexican-grill-carlsbad,3.0,4.2,,7.15,4.0,,,16.5,26.5,0.92,2.5,2.5,3.0,2.8,2.5,3.5,,3.0,3.5,Emily,,,,,X,,,,X,X,,,,X,X,,,X,,,,,,,,,,,,,,,,,,,X,,False
+229,Taco Stand,Al Pastor,9/16/2016,,,,,,,6.99,4.0,,,,,,4.5,4.0,4.5,4.5,4.5,4.5,4.5,5.0,4.0,Mike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+230,Taco Stand,California,9/16/2016,,,,,,,7.49,4.1,,,,,,4.0,4.5,4.5,4.5,4.7,4.5,4.2,4.5,5.0,Luis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+231,Los Tacos,California ,9/18/2016,,,,,,,7.9,3.5,,,20.5,23.0,0.86,4.0,5.0,4.0,4.0,3.0,4.0,3.5,4.0,4.0,Scott,Tortilla is burnt a bit but good. Pick is good,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+232,Los Tacos,Local,9/18/2016,,,,,,,7.9,3.5,,,22.0,23.0,0.93,4.0,3.5,4.5,4.5,3.5,3.5,3.5,4.0,3.0,Emily,Melted cheese is good. Cilantro is fresh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+233,El Cuervo,California ,9/22/2016,Hillcrest,110 Washington St,https://www.yelp.com/biz/el-cuervo-taco-shop-san-diego,4.0,4.3,,6.95,3.5,,,20.0,21.5,0.74,3.5,3.5,3.0,4.0,3.0,3.0,4.5,3.5,2.0,Scott,Alfajores dessert and horchata are super good,,,X,X,X,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+234,El Cuervo,Pollo adobado,9/22/2016,,,,,,,5.95,4.0,,,20.5,20.0,0.65,3.5,5.0,4.5,3.5,4.0,4.5,4.5,4.0,5.0,Richard,First burrito I enjoyed from top to bottom,,,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+235,El Torrito Foods,Asada,9/25/2016,Vista,249 Emerald Dr,https://www.yelp.com/biz/el-torito-foods-vista-2,4.0,4.4,,5.49,4.0,,,23.5,19.0,0.68,3.0,5.0,3.0,3.0,2.5,4.0,3.5,3.0,5.0,Scott,Good because so cheap,,,X,,,,,,,,,,X,X,,,,,,,,X,X,,,,,,,,,,,,,,,False
+236,El Torrito Foods,Adobada,9/25/2016,,,,,,,3.99,4.5,,,22.5,19.5,0.68,3.5,4.0,3.0,2.5,2.8,4.0,2.5,2.5,5.0,Emily,tamale isn't good,,,,,,,,,X,,,,X,X,,,,,,,,X,X,,,,,,,,,,,,,,,False
+237,La Morena Taco Shop and Seafood,California,9/22/2016,Webster,5059 Federal Blvd,https://www.yelp.com/biz/la-morena-taco-shop-san-diego,4.5,4.7,,6.35,4.0,,,,,,4.0,2.5,4.0,3.0,4.5,2.0,2.0,3.0,4.0,Erin,"Good tortilla, good amount of food, needed guac. or salsa to balance out density of fillings.",,,x,x,,,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+238,Taco Villa,Carnitas,9/26/2016,UTC,9500 Gilman Dr,https://www.yelp.com/biz/taco-villa-san-diego,3.5,3.5,,5.99,2.5,,,18.5,20.0,0.59,3.2,3.8,4.5,2.8,4.0,2.0,1.8,3.5,5.0,Scott,Carnitas very good,,,,X,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+239,Rigoberto's Taco Shop,Campeon,9/27/2016,,,,,,,7.65,4.5,,,26.0,24.5,1.24,3.5,4.5,2.5,2.5,1.0,1.5,3.0,2.5,3.0,Scott,"The big size was too big of an appeal, but there's just not enough meat",,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+240,Rigoberto's Taco Shop,California,9/27/2016,,,,,,,6.6,3.5,,,22.0,23.0,0.93,4.0,4.5,4.0,4.0,4.5,5.0,4.5,4.5,4.5,Ricardo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+241,Rigoberto's Taco Shop,Bacon breakfast,9/27/2016,,,,,,,6.3,4.0,,,22.0,22.0,0.85,4.0,3.6,4.0,4.0,4.0,4.0,,4.0,4.0,Luis,,,,,,,x,x,,,,,,,,,,,,,,,,,,,,,,,,x,,x,,,,,True
+242,Rigoberto's Taco Shop,Carnitas,9/27/2016,,,,,,,6.6,3.0,,,,,,4.0,4.0,5.0,5.0,4.5,3.0,2.0,4.0,4.0,Elynn,,,,,x,x,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+243,Taco Villa,Al pastor,9/29/2016,,,,,,,5.99,4.0,,,18.0,20.0,0.57,3.5,3.5,2.0,3.0,4.5,4.5,3.0,3.0,5.0,Scott,get the carnitas,,,,x,x,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+244,Valentines Mexican Food,California ,10/1/2016,Downtown,1157 Sixth Ave,https://www.yelp.com/biz/valentines-mexican-food-san-diego-6,4.0,4.0,X,7.9,4.0,,,20.0,22.0,0.77,4.0,4.0,4.0,4.0,4.5,4.0,4.0,4.0,2.5,Scott,Best horchata. Fries are great. Chips are really good,,,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+245,Valentines Mexican Food,California Chipotle,10/1/2016,,,,,,,7.9,3.0,,,18.5,22.0,0.71,4.0,4.0,3.5,4.5,4.0,3.5,2.5,4.0,1.5,Emily,"Chips really good, really good but a little bit spicy chipotle. Very good horchata",,,x,x,x,x,x,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,True
+246,Matador Mexican Food,Carnitas,10/2/2016,Morena,5201 Linda Vista Rd,https://www.yelp.com/biz/matador-mexican-grill-san-diego-2,4.5,4.0,X,6.6,3.2,,,,,,1.4,3.7,3.0,3.2,4.8,2.4,3.0,2.9,3.0,Scott,,,,,X,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+247,Matador Mexican Food,Carne asada,10/2/2016,,,,,,,6.6,4.0,,,,,,4.0,3.5,3.5,3.5,4.0,3.0,3.5,3.5,4.5,Brent,Salsa too spicy,,,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+248,Jose's Taco,California,10/5/2016,Oceanside,3910 Vista Way,https://www.yelp.com/biz/joses-taco-oceanside,4.0,3.8,,6.1,4.0,,,22.0,22.0,0.85,3.5,3.5,2.0,3.5,4.5,3.5,3.0,3.5,4.0,Scott ,,,,X,,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+249,Cortez Mexican Food,California ,10/7/2016,Bonsall,5517 Mission Rd,https://www.yelp.com/biz/cortez-mexican-food-bonsall,4.2,4.0,,6.25,4.0,,,22.5,18.0,0.58,3.5,4.0,2.5,3.0,1.5,2.5,2.5,2.8,5.0,Scott ,,,,X,X,X,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+250,California Burrito Company,Dave's California,10/12/2016,Miramar,6912 Miramar Rd,https://www.yelp.com/biz/california-burrito-company-san-diego-2,3.5,4.4,,6.5,4.0,,,19.5,21.0,0.68,3.0,2.5,2.5,3.0,4.0,3.5,2.5,3.0,5.0,Scott,The burrito looked beautiful when it came out. Chicken didn't add anything. would probably get the regular,,,x,,,x,x,x,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+251,California Burrito Company,California,10/12/2016,,,,,,,5.5,4.0,,,20.0,20.0,0.64,3.5,5.0,3.0,3.0,3.5,3.5,2.0,4.0,5.0,Devleena,,,,x,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+252,California Burrito Company,California,10/12/2016,,,,,,,5.5,2.0,,,20.0,23.0,0.84,3.0,5.0,3.0,4.0,2.0,2.0,2.0,4.5,4.0,Sankha G,,,,x,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+253,Taco Villa,Chicken and rice,10/12/2016,,,,,,,4.95,3.0,,,,,,3.5,5.0,4.0,4.0,3.78,5.0,,4.7,5.0,Sage,chicken and rice burrito. simple and delicious. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+254,Taco Villa,California ,10/17/2016,,,,,,,6.99,3.5,,,19.0,20.0,0.6,3.0,3.0,3.0,3.0,3.7,3.5,3.8,3.0,5.0,Scott,Pretty decent,,,X,,,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+255,Storehouse Kitchen ,Breakfast,10/17/2016,La  Jolla village,,,,,,,3.5,,,,,,4.0,5.0,4.5,4.2,4.7,4.4,4.0,4.9,5.0,Sage,one if the best breakfast burritos I've ever had,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+256,California Burrito Company,Fajitas ,10/18/2016,,,,,,,6.5,3.0,,,18.5,20.5,0.62,3.0,4.5,3.5,1.5,1.5,2.0,3.2,2.0,4.5,Scott,Peppers not cooked enough,,,X,,,X,,,,,,,,,,,X,,,,,,X,,,,,,,,,,,,,,,False
+257,California Burrito Company,California ,10/18/2016,,,,,,,5.5,3.0,,,17.0,22.0,0.65,3.0,4.0,4.5,3.0,2.0,4.0,4.5,3.5,4.5,Ricardo,Very plain burrito,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+258,Taco Villa,Breakfast,10/18/2016,,,,,,,4.99,4.0,,,,,,4.5,5.0,3.0,3.0,3.0,2.5,0.0,2.5,5.0,Sage,pretty standard breakfast burrito. eggs and cheese. great tortilla! morning protein!,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+259,California Burritos,California Everything,10/17/2016,,,,,,,6.95,4.0,,,22.0,23.0,0.93,4.0,2.0,4.0,3.0,4.0,5.0,3.0,3.0,4.0,Elynn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+260,California Burritos,Surf & Turf,10/17/2016,,,,,,,7.0,4.0,,,22.5,21.0,0.79,3.0,3.0,3.5,4.0,4.0,3.0,3.0,4.0,3.5,Hannah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+261,Taco Villa,Carnitas,10/27/2016,,,,,,,5.95,3.0,,,18.0,20.0,0.57,4.0,3.0,4.0,3.0,4.0,2.0,3.5,3.0,5.0,Scott,,,,,x,x,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+262,Taco Villa,Tejano,10/27/2016,,,,,,,6.99,3.5,,,19.0,21.0,0.67,2.0,5.0,4.2,3.0,4.7,5.0,3.7,4.2,5.0,Sage,,,,,,,x,x,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+263,Taco Villa,Al pastor,10/27/2016,,,,,,,,4.5,,,,,,3.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,3.0,Marc,,,,,x,,,,,x,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,True
+264,Taco Villa,Shrimp with guac,10/27/2016,,,,,,,,2.0,,,,,,2.0,4.0,3.0,4.0,4.0,4.0,3.0,4.0,4.0,Jeremy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+265,Taco Villa,Bean & cheese,10/27/2016,,,,,,,,3.0,,,,,,5.0,5.0,,3.0,2.0,2.0,,1.0,5.0,Shijia,,,,,,,x,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,False
+266,Taco Stand Encinitas,California ,10/29/2016,Encinitas ,642 S Coast Hwy 101,https://www.yelp.com/biz/the-taco-stand-encinitas,4.0,4.4,,7.49,4.0,,,17.5,23.5,0.77,2.0,3.5,4.2,4.3,4.0,2.2,4.5,4.0,2.2,Scott,Much better than the first time we tried this location ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+267,Taco Stand Encinitas,California ,10/29/2016,,,,,,,7.49,2.0,,,18.5,22.0,0.71,3.8,3.8,4.0,4.2,3.75,4.0,4.75,4.4,3.8,Emily,Possibly favorite green salsa so far,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+268,Donato's Taco Shop,Al pastor ,11/1/2016,,,,,,,5.99,4.0,,,19.5,21.5,0.72,3.0,4.5,3.7,2.8,5.0,4.5,3.0,2.3,4.5,Scott,,,,,X,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+269,Donato's Taco Shop,Carne asada,11/1/2016,,,,,,,5.99,2.0,,,21.0,23.5,0.92,2.0,4.0,4.5,4.0,4.0,3.0,4.0,4.0,2.0,Elynn,,,,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+270,Ortiz's Taco Shop #2,California,11/2/2016,Pacific Beach,1313 Garnet Ave,https://www.yelp.com/biz/ortizs-taco-shop-san-diego-2,4.0,4.2,,6.39,4.0,,,20.0,21.0,0.7,4.0,4.0,4.0,4.0,4.5,4.5,4.2,4.5,4.5,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+271,Ortiz's Taco Shop #2,California chicken,11/2/2016,,,,,,,6.39,4.25,,,22.0,22.0,0.85,2.0,4.0,3.7,2.0,4.0,4.5,4.5,2.7,5.0,Sage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+272,Ortiz's Taco Shop #2,California,11/2/2016,,,,,,,6.39,4.5,,,22.5,20.5,0.75,3.0,4.4,4.0,4.0,4.5,4.2,4.3,4.0,5.0,Shijia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+273,Ortiz's Taco Shop #2,California,11/2/2016,,,,,,,6.39,4.75,,,20.5,20.5,0.69,2.0,,3.5,3.0,5.0,4.0,2.0,3.5,3.5,Jeremy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+274,El Portal Fresh Mexican Grill,Mahi,11/6/2016,Clairemont,4101 Genesee Ave,https://www.yelp.com/biz/el-portal-fresh-mexican-grill-san-diego,4.0,4.4,X,7.35,2.3,,,19.5,23.5,0.86,4.0,4.0,3.5,2.0,1.5,2.0,2.0,3.0,1.2,Scott,,,,,,X,,,,,,,X,,,,X,,,X,,,,,,,,,,,,,,,,,,,False
+275,El Portal Fresh Mexican Grill,Carnitas,11/6/2016,,,,,,,6.7,3.75,,,18.0,22.5,0.73,3.5,4.0,4.0,3.0,3.75,4.0,3.0,3.5,4.5,Emily,,,,,X,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+276,El Zarape,California,11/8/2016,,,,,,,6.25,4.0,,,17.0,19.5,0.51,2.5,4.0,3.75,4.0,3.75,5.0,4.0,4.0,5.0,Scott,,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+277,El Zarape,California,11/8/2016,,,,,,,6.25,4.0,,,17.0,22.0,0.65,3.0,,4.0,4.0,4.0,4.0,2.0,3.0,5.0,Ant,,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+278,El Zarape,California,11/8/2016,,,,,,,6.25,3.0,,,,,,4.0,4.0,2.0,2.0,4.0,3.0,3.0,3.0,5.0,Erik,,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+279,El Zarape,Carne asada supreme,11/8/2016,,,,,,,6.25,4.0,,,18.0,21.0,0.63,4.0,4.0,,3.5,3.5,4.0,4.0,4.0,4.0,Tom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+280,Famoso Mexican Street Food,Cali Diablo,11/14/2016,Downtown,815 C St,https://www.yelp.com/biz/famoso-mexican-street-food-san-diego-20,4.5,3.9,,10.5,3.0,,,20.0,27.0,1.16,2.0,2.5,3.3,3.5,1.5,4.0,2.5,2.5,3.0,Scott,Big roach on the floor while eating. Good prep took quite a long time. Cut in half!,,,X,X,X,X,X,X,,,X,,,,,,,,,X,,,,,,,,,,,,,,,,,,False
+281,Valentines Mexican Food,Carne asada,11/16/2016,,,,,,,6.75,3.0,,,18.0,21.5,0.66,4.5,4.7,4.5,3.5,4.0,4.5,4.5,3.5,5.0,Scott,,,,x,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+282,Valentines Mexican Food,Pork california,11/16/2016,,,,,,,7.9,4.0,,,19.0,22.0,0.73,5.0,5.0,4.0,5.0,5.0,3.0,4.0,5.0,3.0,Justin K,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+283,Valentines Mexican Food,California,11/16/2016,,,,,,,7.9,4.0,,,20.0,22.0,0.77,3.0,5.0,5.0,4.0,5.0,4.0,3.0,5.0,2.0,Shreejoy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+284,Valentines Mexican Food,California,11/16/2016,,,,,,,7.9,4.0,,,20.0,21.5,0.74,4.0,4.0,3.0,4.0,4.0,4.0,3.0,3.0,4.0,@synapticlee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+285,Valentines Mexican Food,California,11/16/2016,,,,,,,7.9,3.5,,,,,,4.0,3.5,4.7,4.0,4.5,4.5,4.5,4.0,3.5,@danjlurie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+286,Cancun Mexican & Seafood,California ,11/17/2016,,,,,,,6.99,4.3,,,,,,4.8,5.0,4.0,4.4,5.0,4.0,4.3,4.3,5.0,Scott,Sour cream is surprisingly good. Avocado salsa works very well on the burrito,,,X,,,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+287,Cancun Mexican & Seafood,California ,11/17/2016,,,,,,,6.99,4.0,,,,,,4.5,4.5,4.0,4.5,4.0,4.0,3.5,4.5,5.0,Emily,,,,X,,,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+288,Los Panchos Taco Shop,California,11/23/2016,Hillcrest,409 Washington St,https://www.yelp.com/biz/los-panchos-san-diego-2,3.0,3.4,x,6.25,3.0,,,18.0,21.5,0.66,3.5,5.0,4.0,3.0,4.0,3.0,3.5,3.5,3.0,Scott,,,,x,x,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+289,Los Panchos Taco Shop,Bitchin California,11/23/2016,,,,,,,7.25,4.0,,,19.0,24.0,0.87,4.0,4.0,5.0,4.5,4.0,3.5,5.0,4.5,5.0,Richard,,,,x,,x,x,x,,,,x,,,,x,x,,,,,,,,,,,,,,,,,,,,,,True
+290,Los Panchos Taco Shop,Tijuana,11/23/2016,,,,,,,7.0,3.5,,,19.5,22.0,0.75,4.0,4.0,3.5,4.0,4.0,3.5,4.5,4.0,3.5,Tom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+291,Pollos Maria,Combo chicken,11/26/2016,,,,,,,6.99,3.5,,,20.5,22.5,0.83,3.5,2.5,4.0,3.5,3.0,2.5,2.5,4.5,0.5,Scott,Started off really great but ended with poor uniformity and wrap integrity,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+292,Pollos Maria,Carne asada,11/26/2016,,,,,,,6.49,3.0,,,17.5,17.0,0.4,3.5,4.0,3.0,4.0,3.5,4.0,3.0,4.0,4.5,Emily,Just way too small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+293,El Pollo Loco,Chicken avocado,11/27/2016,Oceanside,3500 College Blvd,https://www.yelp.com/biz/el-pollo-loco-oceanside-5,3.5,4.1,,5.99,3.5,,,17.5,21.0,0.61,2.0,3.0,3.8,2.5,2.5,3.0,2.5,3.0,2.6,Scott,,,,,,x,,,,,x,,,,,,,,,x,,,x,,,,,,,,,,,,,,,,False
+294,Gloria's Taco Shop,California ,12/2/2016,South Park,1233 28th St,https://www.yelp.com/biz/glorias-taco-shop-san-diego,4.0,4.3,,5.65,3.0,,,19.5,22.0,0.75,4.0,1.5,2.0,3.0,4.2,4.0,3.0,2.0,4.5,Scott,Horchata tasted like bubble gum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+295,Gloria's Taco Shop,Cabeza,12/2/2016,,,,,,,5.49,3.0,,,19.0,20.5,0.64,4.5,5.0,2.0,2.0,2.5,3.5,3.0,2.5,3.0,Richard,Meat is squishy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+296,Mr. Ruribertos Taco Shop ,California,12/10/2016,Mission Beach,3202 Mission Blvd,https://www.yelp.com/biz/ruribertos-taco-shop-san-diego,3.5,3.7,,7.75,4.0,,,20.0,21.0,0.7,3.5,2.5,3.0,3.3,1.4,2.3,2.2,3.3,4.5,Scott,,,,X,X,,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+297,Mr. Ruribertos Taco Shop ,Carne asada,12/10/2016,,,,,,,7.75,4.0,,,19.5,21.0,0.68,4.0,4.5,2.0,2.0,3.5,3.5,2.0,2.0,4.0,Brent,"Carrots are bad, got better as it went on",,,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+298,Mister Falafel,Chicken Shawarma,12/15/2016,Clairemont,4461 Clairemont Mesa Blvd,https://www.yelp.com/biz/mister-falafel-san-diego,4.5,4.6,,6.99,3.7,,,24.0,18.5,0.65,3.6,4.0,4.0,3.0,3.8,4.3,,3.8,2.0,Scott,Richard recommended this. Like a Mediterranean burrito,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+299,Rigoberto's Taco Shop,California,1/4/2017,,,,,,,6.6,,,,23.0,20.5,0.77,4.0,4.5,4.0,3.5,3.5,5.0,1.5,3.5,4.5,Scott,Usually better. Too much enchilada sauce this time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+300,Rigoberto's Taco Shop,Chile Relleno,1/4/2017,,,,,,,6.6,,,,20.5,21.5,0.75,4.0,2.0,,4.0,,4.6,4.2,3.75,5.0,Sage,Orange salsa very spicy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+301,Los Tacos,Fusion,1/7/2017,,,,,,,8.5,3.9,,,21.0,21.0,0.74,3.0,4.5,4.1,3.0,3.7,4.0,4.3,4.2,5.0,Scott,Fresca and verde salsas are the best,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+302,Los Tacos,Local,1/7/2017,,,,,,,7.9,4.0,,,20.5,21.0,0.72,3.5,4.0,4.0,3.0,4.0,4.5,4.0,3.8,4.8,Emily,Pastor is dry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+303,Taco Villa,Chicken,1/10/2017,,,,,,,4.99,3.5,,,18.5,22.5,0.75,2.5,4.5,3.0,2.5,3.0,3.0,2.0,2.0,4.0,Scott,Somehow way better when it was leftover,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+304,Lupe's Taco Shop,Hot cheetos,1/12/2017,Linda Vista,7621 Linda Vista Rd,https://www.yelp.com/biz/lupes-taco-shop-san-diego,3.5,4.5,x,7.29,3.5,,,19.0,21.5,0.7,3.0,2.0,3.5,3.5,3.0,2.5,3.7,3.2,4.2,Scott,"Cheese is cold, but guac, salsa, and chips are good",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+305,Lupe's Taco Shop,Surfin California,1/12/2017,,,,,,,7.89,3.0,,,18.5,25.5,0.96,4.0,5.0,4.5,4.0,4.5,3.5,3.0,4.5,2.5,Richard,quality ingredients,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+306,Lupe's Taco Shop,California,1/12/2017,,,,,,,7.49,3.7,,,20.0,26.0,1.08,4.0,3.5,3.9,4.0,3.7,2.0,3.5,4.0,4.0,Tom,tons of french fries,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+307,Lupe's Taco Shop,Spicy a la Diabla,1/12/2017,,,,,,,7.49,5.0,,,18.0,22.0,0.69,4.0,4.0,4.0,2.0,3.0,0.0,,1.0,2.0,Rob L,way too spicy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+308,Los Tacos,Local,1/15/2017,,,,,,,7.9,3.5,,,21.5,23.5,0.94,4.5,5.0,4.0,3.5,4.0,2.8,4.0,4.5,3.7,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+309,Los Tacos,Local,1/15/2017,,,,,,,7.9,2.0,,,19.5,24.0,0.89,4.2,4.0,4.2,3.8,4.0,3.0,3.8,4.5,5.0,Emily,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+310,Taco Villa,Pollo asado,1/20/2017,,,,,,,5.99,4.5,,,18.5,21.0,0.65,2.0,4.0,2.5,3.5,4.5,3.0,2.0,1.5,3.4,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+311,Taco Villa,Al pastor,1/20/2017,,,,,,,6.99,3.5,,,18.5,20.5,0.62,2.5,4.5,4.0,4.0,2.0,3.0,3.0,3.0,4.0,Ricardo ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+312,Rigoberto's Taco Shop La Jolla,California,2/15/2017,,,,,,,6.85,3.5,,,,,,3.0,2.0,3.5,3.5,4.0,3.0,3.5,3.5,4.5,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+313,Rigoberto's Taco Shop La Jolla,California,2/15/2017,,,,,,,6.85,4.0,,,,,,5.0,5.0,4.5,4.0,5.0,4.0,4.0,5.0,5.0,Nihal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+314,Taco Villa,California,2/21/2017,,,,,,,,4.3,,,18.5,21.5,0.68,3.0,3.0,3.5,4.0,3.0,1.5,3.8,4.0,5.0,Scott,Salsa much better this time than before,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+315,Cotixan,California,2/23/2017,Clairemont,4370 Genessee Ave,https://www.yelp.com/biz/cotixan-mexican-and-seafood-san-diego,4.0,4.0,,7.19,4.5,,,20.0,24.0,0.92,4.0,2.0,3.0,3.8,3.5,2.0,4.0,4.0,4.0,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+316,Los Tacos,Local,2/25/2017,,,,,,,7.9,2.5,,,22.0,22.0,0.85,3.0,4.5,4.3,4.0,3.0,3.1,3.9,4.2,3.0,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+317,Los Tacos,Local,2/25/2017,,,,,,,7.9,3.0,,,21.0,24.0,0.96,3.0,3.5,4.5,4.0,4.0,4.0,4.0,4.0,3.5,Emily,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+318,Los Tacos,Local,2/25/2017,,,,,,,7.9,3.0,,,,,,5.0,5.0,5.0,4.0,5.0,4.0,4.0,5.0,4.0,Audrey L,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+319,Los Tacos,Local,2/25/2017,,,,,,,7.9,3.0,,,,,,3.5,4.0,4.0,4.0,4.5,3.5,4.0,3.5,4.0,Spencer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+320,Lourdes,Carnitas,3/3/2017,Encinitas,2113 San Elijo Ave,https://www.yelp.com/biz/lourdes-encinitas-2,4.0,4.7,,7.35,3.5,415.0,0.6916666667,21.0,19.0,0.6,3.5,3.0,3.5,3.0,4.5,4.5,4.0,4.0,5.0,Emily,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+321,Lourdes,California,3/3/2017,,,,,,,6.35,3.5,425.0,0.7083333333,19.0,20.0,0.6,4.0,3.0,3.0,3.0,2.5,3.0,3.5,2.8,5.0,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+322,Vallarta Express,California,3/16/2017,,,,,,,7.5,4.0,,,,,,3.0,,4.0,4.0,3.0,5.0,3.0,4.0,5.0,Erik,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+323,California burritos,California everything,4/7/2017,,,,,,,6.5,4.5,520.0,0.6265060241,22.5,21.5,0.83,4.5,3.0,3.5,4.5,3.5,4.0,3.5,4.3,4.3,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+324,California burritos,California everything,4/7/2017,,,,,,,6.5,4.0,476.0,0.56,23.0,21.5,0.85,4.0,3.5,4.5,4.0,3.5,4.5,4.0,4.0,4.5,Ricardo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+325,California burritos,California everything mini,4/7/2017,,,,,,,4.75,4.0,,,18.0,17.0,0.41,4.0,4.0,4.5,4.3,4.5,4.5,4.8,4.8,5.0,Luis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+326,California burritos,Surf & Turf,4/7/2017,,,,,,,6.75,4.0,560.0,0.5656565657,24.5,22.5,0.99,4.0,4.0,4.0,3.5,3.5,3.0,2.0,3.5,3.5,Hannah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+327,California burritos,California everything,4/7/2017,,,,,,,6.5,4.0,,,21.3,23.8,0.96,3.0,3.0,4.0,4.0,4.0,4.0,3.0,4.0,4.0,Clark,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+328,California burritos,Surf & Turf,4/7/2017,,,,,,,6.75,4.0,,,,,,3.0,5.0,5.0,,,5.0,,4.0,5.0,Justin C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+329,Los palmitos,California,4/23/2017,Clairemont,5145 Clairemont Mesa Blvd,https://www.yelp.com/biz/los-palmitos-taco-shop-san-diego,4.0,4.1,x,7.1,4.0,,,22.5,23.0,0.95,4.5,5.0,3.8,3.8,4.0,4.0,3.9,4.3,5.0,Scott,red-orange salsa has a slight fruity flavor that's really good,,,X,,,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+330,Los palmitos,Surf & Turf,4/23/2017,,,,,,,8.25,3.5,,,20.0,24.0,0.92,3.5,4.0,4.0,3.0,3.5,4.5,3.5,3.5,5.0,Emily,Rice was plain. Also don't like rice in burrito,,,X,,X,,,,,,X,,X,,,,,,,X,,,,,,,,,,,,,,,,,,False
+331,Taco Villa,Carnitas,4/25/2017,,,,,,,5.99,4.0,450.0,0.703125,20.0,20.0,0.64,2.0,4.5,4.5,3.0,3.8,4.4,2.5,3.5,3.0,Scott,,,,,x,x,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+332,Taco Villa,Carnitas,4/25/2017,,,,,,,5.99,4.0,,,18.5,20.0,0.59,4.0,4.0,4.0,3.0,4.0,3.5,2.5,3.5,5.0,Richard,,,,,x,x,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+333,Lupe's Taco Shop,TGunz,4/25/2017,,,,,,,10.0,3.0,920.0,0.5974025974,23.0,29.0,1.54,3.0,4.0,3.2,3.5,1.8,1.8,3.5,3.7,3.5,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+334,Lupe's Taco Shop,TGunz,4/25/2017,,,,,,,10.0,4.2,925.0,0.6006493506,23.0,29.0,1.54,3.0,4.5,3.5,3.5,2.5,2.0,3.0,3.5,4.5,Ricardo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+335,Filiberto's,Adobada,5/2/2017,Encinitas,476 S Coast Hwy 101,https://www.yelp.com/biz/filibertos-encinitas-2,3.0,3.8,,6.25,4.4,,,,,,4.2,4.5,4.0,3.0,5.0,3.8,2.5,3.0,5.0,Scott,,,,,x,x,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+336,Filiberto's,California,5/2/2017,,,,,,,6.25,3.0,,,,,,4.5,4.5,3.7,3.5,4.0,3.5,3.0,4.0,4.5,Emily,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+337,Don Carlos Taco Shop,California,5/9/2017,La Jolla,737 Pearl St,https://www.yelp.com/biz/don-carlos-taco-shop-la-jolla,4.0,4.5,,7.75,5.0,,,18.0,22.5,0.73,3.5,4.2,3.3,3.7,4.0,4.0,2.9,3.0,5.0,Scott ,,,,X,X,,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+338,Don Carlos Taco Shop,California,5/9/2017,,,,,,,7.75,2.5,,,20.0,22.5,0.81,4.0,4.0,2.6,3.6,4.0,4.0,3.6,4.0,4.0,Luis,,,,X,X,,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+339,Los Tacos 2,Al pastor tradicional ,5/13/2017,Oceanside,3480 Marron Rd,https://www.yelp.com/biz/los-tacos-oceanside-2,4.5,5.0,,8.25,3.8,430.0,0.6323529412,22.5,19.5,0.68,4.0,,4.0,3.0,3.0,2.5,4.0,3.0,5.0,Scott,,,,,X,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+340,Rubios UCSD,Grilled fish salmon,5/17/2017,,,,,,,8.99,4.0,350.0,0.7446808511,15.5,19.5,0.47,3.5,3.0,3.5,3.5,4.0,2.0,4.0,4.0,4.0,Tom,,,,,,,,,,,,,x,x,,,,,,x,,,,,,,,,,,,,,,,,x,,False
+341,Rigoberto's Taco Shop,California,5/17/2017,,,,,,,6.85,4.0,,,23.5,23.0,0.99,3.5,5.0,3.3,3.0,5.0,2.0,3.0,3.8,3.5,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+342,Rigoberto's Taco Shop,California,5/17/2017,,,,,,,6.85,4.0,,,23.5,23.5,1.03,4.0,5.0,4.0,4.0,5.0,3.5,2.0,3.5,4.0,Elynn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+343,El Dorado Mexican Food,California,5/26/2017,,,,,,,7.4,3.3,,,19.5,24.5,0.93,5.0,4.0,4.2,3.5,2.9,3.0,4.0,4.0,4.0,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+344,El Dorado Mexican Food,California,5/26/2017,,,,,,,7.4,3.5,,,19.5,26.5,1.09,4.5,4.0,4.0,3.5,3.0,3.0,2.5,4.0,3.8,Emily,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+345,Los Tacos 2,Cheese steak,5/29/2017,,,,,,,9.95,4.2,600.0,0.7792207792,22.0,21.0,0.77,3.5,5.0,3.0,1.5,3.0,2.5,3.0,2.2,2.5,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+346,Roberto's Taco Shop Hillcrest,Asada,5/30/2017,Hillcrest,420 Robinson Ave,https://www.yelp.com/biz/robertos-taco-shop-hillcrest-san-diego,4.0,4.2,,7.0,3.5,450.0,0.625,19.5,21.5,0.72,4.0,4.0,2.0,2.5,4.5,4.0,3.0,2.9,4.5,Scott,,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+347,Roberto's Taco Shop Hillcrest,California Surf and Turf,5/30/2017,,,,,,,9.0,3.0,,,24.0,22.0,0.92,3.5,4.0,4.0,4.0,4.5,4.5,2.0,3.5,4.0,Richard,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+348,Roberto's Taco Shop Hillcrest,California,5/30/2017,,,,,,,7.0,3.5,,,23.0,21.5,0.85,3.0,3.0,2.0,2.0,3.0,2.0,3.0,2.0,3.0,Tom,,,,x,,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+349,Burros and Fries,Shrimp california,6/4/2017,,,,,,,6.99,4.0,580.0,0.8656716418000001,21.0,20.0,0.67,3.0,4.0,4.0,2.5,2.5,3.0,3.0,3.0,5.0,Emily,too many fries. Not great,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+350,Burros and Fries,California,6/4/2017,,,,,,,7.19,3.5,635.0,0.7839506173,21.0,22.0,0.81,3.5,4.5,3.5,3.5,3.0,3.5,4.0,3.5,5.0,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+351,Taco Stand Encinitas ,California,6/10/2017,,,,,,,7.89,4.0,,,19.0,22.5,0.77,3.0,,4.5,4.0,4.5,4.5,4.5,4.8,3.3,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+352,Taco Stand Encinitas,California,6/10/2017,,,,,,,7.89,4.0,,,18.0,21.5,0.66,3.0,,4.0,4.0,4.5,4.0,4.5,4.5,5.0,Emily,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+353,Cotixan,California,6/16/2017,,,,,,,6.9,4.3,550.0,0.6875,19.0,23.0,0.8,3.0,3.0,3.5,3.5,3.5,3.5,3.8,4.0,5.0,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+354,Vallarta Express,Surf & Turf,6/24/2017,,,,,,,8.55,3.0,610.0,0.7261904762000001,20.0,23.0,0.84,3.0,2.5,3.0,3.0,3.5,2.8,3.5,2.8,1.5,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+355,Vallarta Express,California,6/24/2017,,,,,,,7.8,2.5,620.0,0.6326530612,20.5,24.5,0.98,3.0,2.0,3.5,3.0,3.0,4.0,3.0,3.8,4.5,Emily,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+356,Caliente Mexican Food,carne asada ,7/6/2017,Sorrento Valley,11815 Sorrento Valley Rd,https://www.yelp.com/biz/caliente-mexican-food-san-diego,3.5,4.4,,5.56,2.5,420.0,0.6176470588,21.5,20.0,0.68,2.5,3.0,2.5,3.5,4.5,4.5,3.7,3.3,4.5,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+357,Caliente Mexican Food,carne asada ,7/6/2017,,,,,,,5.56,4.0,,,21.0,21.5,0.77,4.0,4.0,4.0,3.0,4.0,2.0,4.0,3.0,3.0,Chris G,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+358,Caliente Mexican Food,fried fish,7/6/2017,,,,,,,5.56,3.5,,,22.5,19.0,0.65,3.5,3.0,,3.5,3.0,4.0,4.5,3.5,4.0,Xi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+359,Caliente Mexican Food,California,7/6/2017,,,,,,,6.47,4.0,,,23.0,22.0,0.89,1.0,2.0,2.0,2.0,3.0,3.0,1.0,2.0,3.0,Erik K,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+360,Burrito Factory,Steak everything ,7/13/2017,Austin,2025 Guadalupe St,https://www.yelp.com/biz/burrito-factory-austin,4.5,4.8,,7.35,3.5,,,17.0,23.0,0.72,3.2,3.0,3.5,3.5,3.0,3.3,3.0,3.8,2.0,Scott,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+361,Taco Villa,Carne asada,7/12/2017,,,,,,,6.99,3.0,,,,,,3.0,4.5,2.0,3.0,2.5,4.0,2.0,2.0,4.0,Richard,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+362,Taco VIlla,California,7/19/2017,,,,,,,6.99,4.0,,,20.5,21.5,0.75,4.0,,3.5,3.5,3.5,3.5,3.5,3.5,5.0,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+363,Los Tacos 2,Local,7/22/2017,,,,,,,8.5,3.8,,,23.0,22.0,0.89,4.0,4.5,3.0,4.0,3.0,2.5,3.5,3.5,3.0,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+364,Los Tacos 2,Local,7/22/2017,,,,,,,8.5,4.0,,,22.0,21.0,0.77,4.0,4.0,3.75,4.0,3.5,3.5,4.0,5.0,3.5,Emily,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+365,Valentines Mexican Food,Carne asada,8/7/2017,,,,,,,6.75,4.0,,,19.5,21.0,0.68,4.0,4.5,3.5,3.5,4.5,4.5,3.0,3.5,4.0,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+366,Valentines Mexican Food,California,8/7/2017,,,,,,,7.9,4.0,,,22.0,25.0,1.09,4.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,3.5,Simon,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+367,Vallarta Express,California,8/9/2017,,,,,,,8.35,4.5,,,21.0,23.0,0.88,3.0,3.0,4.0,3.0,4.0,2.5,4.0,4.5,4.0,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+368,Lalo's Tacos,California,8/11/2017,Hillcrest,1266 University Ave,https://www.yelp.com/biz/lalos-tacos-san-diego-2,3.0,3.9,,7.75,3.0,,,,,,3.75,5.0,3.0,3.5,5.0,5.0,2.0,3.0,2.8,Daniel A,,,,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+369,Roberto's Taco Shop Hillcrest,Golden State,8/14/2017,,,,,,,25.0,4.0,,,21.5,24.0,0.99,3.8,4.4,4.0,3.8,4.0,4.0,4.0,4.0,5.0,Scott,Good. but just get a regular Cali.,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+370,Roberto's Taco Shop Hillcrest,California,8/14/2017,,,,,,,7.0,4.0,,,19.5,21.5,0.72,4.5,5.0,4.0,4.0,4.0,3.7,3.8,4.6,4.8,Simon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+371,Kotija Jr,California,8/19/2017,Del Mar,2668 Del Mar Heights Rd,https://www.yelp.com/biz/kotija-jr-taco-shop-del-mar,4.0,4.2,,6.99,4.0,550.0,0.7857142856999999,20.0,21.0,0.7,4.0,5.0,3.5,3.8,3.0,2.5,3.3,4.0,5.0,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+372,Kotija Jr,Steak fajitas,8/19/2017,,,,,,,7.1,3.0,,,21.0,22.0,0.81,3.5,5.0,4.0,4.0,4.5,4.75,3.75,4.0,5.0,Emily,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+373,El Rey Moro,Hashbrown,8/20/2017,,,,,,,6.47,4.0,450.0,0.625,22.5,20.0,0.72,3.0,3.0,2.0,2.5,1.5,2.5,2.5,3.0,5.0,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+374,El Rey Moro,Hashbrown,8/20/2017,,,,,,,8.94,3.5,,,21.5,22.0,0.83,2.5,3.5,3.5,3.5,3.5,4.0,3.0,3.5,4.5,Emily,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+375,Taco Villa,Carnitas,8/25/2017,,,,,,,5.99,2.0,,,20.0,21.5,0.74,2.0,2.5,4.0,3.0,4.0,3.5,3.0,3.0,5.0,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+376,Taco Villa,Carne asada,8/25/2017,,,,,,,6.99,3.5,,,,,,4.0,4.0,4.0,4.5,4.0,3.5,4.0,4.0,4.0,Nuttida,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+377,Los Tacos,Local,9/4/2017,,,,,,,8.5,3.5,540.0,0.6835443038,21.5,21.5,0.79,3.5,4.0,4.5,4.0,3.0,4.0,3.5,4.5,5.0,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+378,Los Tacos,Local,9/4/2017,,,,,,,8.5,3.5,540.0,0.6136363636,21.0,23.0,0.88,4.0,4.0,4.0,4.5,4.2,4.5,4.0,4.5,4.8,Emily,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+379,Rigoberto's Taco Shop,California ,9/5/2017,,,,,,,6.85,3.5,,,22.5,22.5,0.91,3.0,4.5,3.8,3.8,4.0,3.5,3.5,4.0,3.0,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+380,Rigoberto's Taco Shop,California ,9/5/2017,,,,,,,6.85,3.5,,,22.2,22.5,0.89,3.0,4.5,4.0,4.0,4.5,3.0,4.0,4.0,3.5,Sage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+381,Burrito Box,Steak with guacamole,12/16/2017,New York,885 9th Ave,https://www.yelp.com/biz/the-burrito-box-new-york,4.0,4.5,Yes,11.5,3.5,,,15.0,25.0,0.75,2.0,2.0,4.0,3.5,3.0,4.5,3.5,4.0,2.0,Scott,Maybe a little better than chipotle. Or at least more authentic.,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+382,Taco Stand,California ,12/29/2017,,,,,,,7.89,4.0,,,19.0,23.0,0.8,4.0,3.0,4.0,4.0,3.0,4.0,3.5,4.3,4.5,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+383,Taco Stand,California ,12/29/2017,,,,,,,7.89,5.0,,,20.0,21.5,0.74,5.0,5.0,5.0,5.0,4.0,4.0,5.0,5.0,3.0,Ben S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+384,Lolita's Taco Shop,California,1/2/2018,,,,,,,7.25,4.0,,,,,,4.0,5.0,4.0,5.0,5.0,3.0,3.0,4.0,5.0,Ben S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+385,El Patron,Breakfast,1/9/2018,National City,5065 Logan Ave,https://www.yelp.com/biz/el-patron-mexican-food-san-diego,4.5,3.8,,4.19,3.0,,,,,,3.0,5.0,2.0,2.0,4.0,1.0,4.0,3.0,4.0,Bernie form,They normally do better but this was a real disappointment. They eggs were over salted and dry while the beans were bland and runny. ,x,,,,,x,,x,,,,,,x,,,,,,,,,,,,x,,,,,x,,,,,,,False
+386,La Posta de Acapulco,California,1/12/2018,Hillcrest,3980 Third Ave,https://www.yelp.com/biz/la-posta-de-acapulcos-san-diego-2,3.5,4.3,,7.0,5.0,,,,,,5.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,Chris form,best burrito in San Diego,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+387,Los Tacos 2,Local,1/12/2018,,,,,,,8.5,4.0,,,21.0,23.5,0.92,4.0,4.0,3.0,3.5,1.0,2.0,3.0,3.0,1.0,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+388,Rigoberto's Taco Shop,Carne asada,4/4/2018,,,,,,,7.2,3.0,,,24.5,22.7,1.0,4.0,5.0,4.0,3.0,3.0,3.0,4.0,3.0,4.0,Han Mee,"Meat is cooked well with good overall flavor, could use a little more salk",,,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+389,Taco Villa,Carnitas,4/9/2018,,,,,,,5.99,3.0,,,20.0,23.0,0.84,3.5,5.0,4.3,3.5,5.0,4.0,3.0,3.8,2.0,Scott,,,,,x,x,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+390,Taco Villa,Carnitas,4/9/2018,,,,,,,5.99,3.5,,,17.5,24.0,0.8,4.0,4.5,5.0,4.5,5.0,4.0,4.0,4.5,4.0,Nuttida ,,,,,x,x,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+391,Taco Villa,Carnitas,4/9/2018,,,,,,,5.99,2.0,,,19.0,24.5,0.91,2.0,3.5,4.5,4.0,4.0,2.0,3.0,4.0,2.0,Elynn,,,,,x,x,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+392,Mikes Taco Club,California,4/14/2018,,,,,,,8.99,4.0,,,25.0,23.0,1.05,4.5,4.5,4.0,4.0,3.0,4.0,3.5,4.0,3.0,Scott,,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+393,Mikes Taco Club,California,4/14/2018,,,,,,,8.99,4.0,,,24.0,22.0,0.92,4.5,5.0,3.5,4.0,4.0,4.0,,2.5,1.5,Sage,,,,x,x,x,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+394,Taco Villa,Chile Verde (pork),4/16/2018,,,,,,,5.99,3.5,,,17.0,21.5,0.63,4.0,4.5,3.5,3.0,4.5,3.0,3.0,2.5,2.5,Scott,,,,,,,,,,x,,,,,x,,,,,,,x,,,,,,,,,,,,,,,,,False
+395,El Zarape,Supreme chicken,4/16/2018,,,,,,,7.5,4.0,,,18.0,22.0,0.69,4.0,4.0,3.5,4.2,4.5,4.3,3.0,4.0,4.5,Tom,,,,,,x,x,,,,x,,,x,x,,,,,,,,,,,,,,,,,,,,,,,,False
+396,Taco Villa,Carnitas,4/20/2018,,,,,,,5.99,3.0,,,20.0,20.5,0.67,2.0,5.0,4.5,3.5,4.5,4.5,2.5,3.5,1.5,Scott,so greasy. But grilled onions are good,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+397,Taco Villa,Carnitas ,4/20/2018,,,,,,,5.99,5.0,,,22.0,19.0,0.63,4.0,4.5,3.5,4.0,4.0,3.5,4.0,4.0,3.5,Nuttida,it was greasy. But he grilled onions made it good,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+398,Lucha Libre Carlsbad ,Alambre california,4/21/2018,Carlsbad,2525 El Camino Real,https://www.yelp.com/biz/lucha-libre-gourmet-taco-shop-carlsbad,3.5,3.8,No,8.5,3.2,,,18.0,23.0,0.76,3.8,4.0,4.0,4.0,3.8,3.4,4.3,4.0,5.0,Scott,Not much bacon flavor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+399,Lucha Libre Carlsbad ,Surfin california,4/21/2018,,,,,,,9.5,3.0,,,19.0,24.0,0.87,3.5,3.0,3.8,4.0,3.8,4.5,4.5,4.0,5.0,Emily,Bad shrimp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+400,Lucha Libre Carlsbad ,Ado-haba california,4/29/2018,,,,,,,8.5,3.2,,,19.5,21.5,0.72,3.5,1.0,3.0,3.0,3.4,4.0,4.5,3.0,4.0,Scott,Had been made too early for pickup and got cold. Small in size ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+401,Lucha Libre Carlsbad ,Ala tingada california,4/29/2018,,,,,,,8.5,3.0,,,18.0,19.0,0.52,3.0,2.5,3.5,3.0,1.0,1.0,4.0,3.5,5.0,Emily,tortilla became a filling half of the side. Puny size.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+402,Taco Villa,California,5/1/2018,,,,,,,6.99,4.0,,,18.0,23.0,0.76,3.5,3.0,3.2,3.2,3.2,4.0,3.0,2.5,4.5,Scott,I ordered carnitas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+403,Taco Villa,Carnitas,5/7/2018,,,,,,,5.99,3.5,,,19.5,21.0,0.68,2.5,3.0,4.0,3.5,2.5,2.5,3.3,3.0,4.0,Scott,Worse than usual,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+404,Taco Villa,Carnitas,5/7/2018,,,,,,,5.99,3.5,,,18.5,24.0,0.85,4.0,4.0,4.5,4.0,4.5,5.0,4.0,4.0,,Nuttida,I like the onions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+405,Tony's Fresh Mexican Food,La Paz,5/22/2018,,,,,,,9.99,5.0,,,20.0,22.0,0.77,4.0,4.0,3.0,3.0,5.0,3.5,,3.0,4.5,Hannah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+406,Tony's Fresh Mexican Food,La Paz,5/22/2018,,,,,,,9.99,4.0,,,20.0,22.0,0.77,5.0,5.0,3.0,3.0,4.0,4.0,2.0,4.0,3.0,Mike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+407,Tony's Fresh Mexican Food,Adobada,5/22/2018,,,,,,,7.39,4.0,,,24.0,21.0,0.84,5.0,4.0,4.0,3.0,4.0,5.0,4.0,4.0,5.0,Nick G.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+408,Tony's Fresh Mexican Food,Adobada,5/22/2018,,,,,,,7.39,4.5,,,21.0,22.5,0.85,3.5,4.5,4.0,3.5,2.0,1.0,3.5,3.5,4.0,Ricardo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+409,Tony's Fresh Mexican Food,Veggie,5/22/2018,,,,,,,7.39,4.0,,,22.0,20.0,0.7,3.0,5.0,,3.0,,4.0,,3.0,4.0,Erin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+410,Taco Stand,California,11/6/2018,,,,,,,8.0,4.0,,,21.5,24.0,0.99,5.0,5.0,5.0,4.5,5.0,5.0,5.0,5.0,5.0,Jeff,Very unique seasoning tortilla didn't feel heavy at all. Charness is very subjective. Great balance. Didn't burn mouth. Not cold. Would marry.,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+411,Kotija Jr,California,8/24/2019,,,,,,,8.0,4.0,,,,,,4.0,4.5,3.5,4.0,4.0,5.0,4.7,4.0,5.0,Scott,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+412,Valentine's Mexican Food,Pollo asado,8/27/2019,,,,,,,5.5,2.0,,,19.0,23.0,0.8,4.5,5.0,5.0,3.5,4.0,4.5,4.0,4.9,4.5,Claire,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+413,Valentine's Mexican Food,Carne asada,8/27/2019,,,,,,,6.75,3.0,,,19.0,25.0,0.94,3.0,4.0,4.0,3.0,4.0,4.0,3.0,3.0,5.0,Derek,nom nom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+414,Valentine's Mexican Food,Al Pastor,8/27/2019,,,,,,,6.0,3.0,,,17.5,21.5,0.64,4.0,4.0,4.5,4.0,3.0,3.0,4.5,4.0,4.5,Max,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+415,Valentine's Mexican Food,California,8/27/2019,,,,,,,7.9,2.0,,,17.0,22.0,0.65,4.5,3.0,4.0,4.5,2.5,3.5,4.0,5.0,5.0,Aaron K,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+416,Valentine's Mexican Food,Al Pastor,8/27/2019,,,,,,,6.0,1.0,,,17.0,20.5,0.57,5.0,4.0,3.5,,4.0,4.0,2.0,2.0,5.0,Anon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+417,Valentine's Mexican Food,Chile Relleno,8/27/2019,,,,,,,6.0,4.0,,,19.0,26.0,1.02,4.0,5.0,,3.5,4.0,4.0,5.0,4.0,3.0,Bonnie,non-symmetric wrapping,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+418,Valentine's Mexican Food,California,8/27/2019,,,,,,,7.9,3.0,,,20.0,22.0,0.77,4.0,4.0,4.0,3.7,3.0,2.0,3.5,4.0,4.5,Scott,way too small and not enough meat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+419,Valentine's Mexican Food,Shrimp,8/27/2019,,,,,,,7.9,3.0,,,22.5,24.5,1.07,5.0,2.0,5.0,5.0,5.0,2.0,5.0,5.0,2.0,AC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
+420,Valentine's Mexican Food,Pollo Asado,8/27/2019,,,,,,,5.5,3.5,,,17.0,21.3,0.61,3.0,5.0,4.3,4.0,4.9,3.8,3.0,4.5,4.0,Sisi,"i wish there was some really bomb hot sauce, the tortilla is a bit dry",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True
